@@ -1,0 +1,14 @@
+MI EXPERIENCIA
+Alex Olmos
+
+No trabajo en el sector informático. Trabajo en una fábrica y hago turnos de 12 horas los fines de semana, pero por mi cuenta he ido trasteando con distintas cosas.
+
+Vengo de SMR, donde aprendí conceptos que me han servido para entender mejor lo que voy probando. He montado servidores de dominio y he tocado redes. No sé si conoces a Carlos Pedrón, pero es uno de los profesores con los que más he aprendido y quien más me ha animado a seguir con redes.
+
+Por mi cuenta empecé una web con Next.js, con ayuda de una inteligencia artificial y apoyándome en los conceptos que había aprendido. Es un proyecto que quiero retomar algún día, pero ahora mismo, entre los estudios y el trabajo, no me da la vida.
+
+Uso macOS como sistema principal porque me parece más limpio, aunque también tengo un equipo con Windows para las máquinas virtuales, por los problemas de compatibilidad que me encuentro con los procesadores M.
+
+También tengo una Raspberry Pi 5 con Linux, donde he instalado Docker, Pi-hole y WireGuard. He configurado la apertura de puertos de mi red para poder acceder desde fuera. Además, he utilizado GitHub, VS Code y VSCodium.
+
+En general, he tocado un poco de todo, pero no he profundizado muchísimo en ninguna parte. Me gustaría aprovechar el curso para entender mejor lo que hago y seguir aprendiendo.
