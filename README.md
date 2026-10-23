@@ -1,28 +1,117 @@
-# SpiderGym
+# SpiderGym 🕷️💪
 
-Proyecto de Lenguajes de Marcas de primero de ASIX. SpiderGym es una propuesta de
-gimnasio inteligente para registrar y consultar entrenamientos mediante máquinas
-conectadas. Los usuarios podrán identificarse mediante NFC o QR y consultar
-series, repeticiones, peso y descansos.
+**Datos que te hacen más fuerte.**
 
-## Quincena 2 de LMSGI — Entrega 02
+## 1. Descripción del proyecto
 
-Primera versión navegable del proyecto utilizando HTML semántico, sin CSS ni
-JavaScript. Esta entrega muestra la entidad **máquina** mediante un catálogo y
-una página de detalle.
+SpiderGym es un proyecto desarrollado para el ciclo de **Administración de Sistemas Informáticos en Red (ASIX)**, dentro del módulo de **Lenguajes de Marcas y Sistemas de Gestión de Información (LMSGI)**.
 
-- `index.html`: presentación del proyecto.
-- `maquinas.html`: catálogo de máquinas.
-- `maquina-extension-piernas.html`: ficha de la máquina de extensión de piernas.
+La idea es crear un sistema para gimnasios que permita relacionar las máquinas de entrenamiento con los usuarios y registrar su actividad física.
 
-Se utilizan encabezados, párrafos, listas, enlaces con rutas relativas e imágenes
-con texto alternativo. El contenido se organiza con `header`, `nav`, `main`,
-`article` y `footer` según corresponde en cada página.
+En el futuro, cada máquina podría identificarse mediante un código QR o NFC para asociar el entrenamiento al perfil correspondiente.
 
-El registro de entrenamientos, NFC y QR son funciones previstas del proyecto;
-esta entrega contiene páginas HTML estáticas.
+El objetivo es que los usuarios puedan consultar sus rutinas, registrar ejercicios y comprobar su evolución.
 
-## Estructura del repositorio
+## 2. Objetivos
+
+- Crear una web sencilla y fácil de utilizar.
+- Mostrar un catálogo de máquinas de gimnasio.
+- Ofrecer información detallada de cada máquina.
+- Identificar individualmente las máquinas.
+- Facilitar el registro y seguimiento de entrenamientos.
+- Mejorar la accesibilidad y la organización de la información.
+- Aprender HTML y aplicar los contenidos de LMSGI.
+
+## 3. Estado actual del proyecto
+
+**Versión:** Prototipo HTML — Quincena 3.
+
+Actualmente SpiderGym es una web estática desarrollada con HTML5. No dispone todavía de una base de datos ni de conexiones reales con máquinas de gimnasio.
+
+### Páginas implementadas
+
+**Inicio — `index.html`**
+
+Presenta el proyecto SpiderGym y permite acceder al catálogo.
+
+**Máquinas — `maquinas.html`**
+
+Contiene un catálogo básico y una tabla con información de ejemplo sobre máquinas, gimnasios y ubicaciones.
+
+**Extensión de piernas — `maquina-extension-piernas.html`**
+
+Muestra la ficha de una máquina con su imagen, identificación, gimnasio, ubicación, grupo muscular y funcionamiento previsto.
+
+### Datos ficticios
+
+Para demostrar cómo podría funcionar el sistema utilizamos estos ejemplos:
+
+| Código | Gimnasio | Máquina | Ubicación |
+|---|---|---|---|
+| MAQ-DEMO-001 | Gimnasio Norte | Extensión de piernas | Zona A |
+| MAQ-DEMO-002 | Gimnasio Sur | Extensión de piernas | Zona B |
+
+Estos datos son ficticios y se utilizan únicamente para el prototipo.
+
+## 4. Tecnologías utilizadas
+
+- **HTML5:** estructura y contenido de las páginas.
+- **Visual Studio Code:** edición del código.
+- **Safari:** visualización y pruebas.
+- **Git y GitHub:** control de versiones y almacenamiento del proyecto.
+- **Markdown:** documentación.
+- **ChatGPT:** apoyo al aprendizaje, explicación de conceptos y revisión de propuestas.
+
+Por ahora no se ha incorporado CSS ni JavaScript.
+
+## 5. Accesibilidad y mejoras de la Quincena 3
+
+Durante esta quincena se han trabajado las siguientes mejoras:
+
+- Uso de etiquetas semánticas como `header`, `nav`, `main`, `article` y `footer`.
+- Declaración del idioma mediante `lang="es"`.
+- Incorporación de metadatos `description` y `viewport`.
+- Incorporación de metadatos Open Graph.
+- Creación de una tabla con título y encabezados.
+- Mejora del texto alternativo de la imagen.
+- Identificación del menú principal mediante `aria-label`.
+- Uso de `aria-current="page"` cuando corresponde.
+- Incorporación de migas de pan en la ficha de Extensión de piernas.
+- Comprobación manual de los enlaces principales.
+
+También se ha probado con **VoiceOver** la lectura del texto alternativo de la imagen.
+
+Quedan pendientes la validación completa de HTML y otras comprobaciones de accesibilidad.
+
+## 6. Funcionamiento previsto de NFC y QR
+
+La idea es que el usuario se identifique en una máquina mediante NFC o QR.
+
+Es importante distinguir dos funciones:
+
+- **Identificación:** NFC o QR permitirían identificar al usuario o la máquina.
+- **Registro del entrenamiento:** para detectar automáticamente repeticiones, peso u otros datos serían necesarios sensores o sistemas compatibles.
+
+Como alternativa, SpiderGym podría permitir introducir los datos manualmente.
+
+**Estas funcionalidades todavía no están implementadas.** Forman parte de la propuesta futura del proyecto.
+
+## 7. Funcionalidades futuras
+
+La planificación de SpiderGym contempla:
+
+- Rutinas personalizadas.
+- Historial de entrenamientos.
+- Estadísticas de progreso.
+- Perfil personal.
+- Comunidad de usuarios.
+- Identificación mediante NFC o QR.
+- Registro manual o automático de ejercicios.
+- Posible incorporación de funciones de inteligencia artificial.
+
+Estas funciones se desarrollarán progresivamente y no deben confundirse con las disponibles en el prototipo actual.
+
+## 8. Estructura del proyecto
 
 ```text
 SpiderGym/
@@ -33,43 +122,63 @@ SpiderGym/
 ├── img/
 │   ├── logo-spidergym.jpg
 │   └── extension-piernas.png
-├── evidencias/
-│   └── comprobacion-quincena-2.md
-├── docs/                        # Actividades de la Quincena 1
-└── Boceto app Spider Gym.jpeg    # Boceto inicial
+├── docs/
+│   ├── auditoria-accesibilidad.md
+│   ├── registro-errores.md
+│   └── registro-ia.md
+└── evidencias/
+    ├── tabla-maquinas.png
+    └── ficha-maquina.png
 ```
 
-Las páginas HTML están en la raíz del repositorio. Se conserva la documentación
-de la Quincena 1.
+La carpeta `docs` contiene documentación del trabajo realizado y `evidencias` reúne capturas y pruebas del proyecto. Pueden añadirse otros documentos y subcarpetas conforme avance la entrega.
 
-## Cómo abrir y comprobar la entrega
+## 9. Cómo visualizar SpiderGym
 
-1. Descargar el repositorio completo o clonarlo:
-   `git clone https://github.com/Alex-developer-150624/SpiderGym.git`.
-2. Abrir `index.html` en un navegador. No requiere instalación ni servidor.
-3. Pulsar **Máquinas**, abrir **Ver detalle** en Extensión de piernas y volver al
-   catálogo. Comprobar también el enlace **Inicio**.
-4. Comprobar que aparecen el logotipo y la fotografía de la máquina.
+Para consultar el prototipo:
 
-La comprobación local de estructura, enlaces e imágenes está documentada en
-[`evidencias/comprobacion-quincena-2.md`](evidencias/comprobacion-quincena-2.md).
+1. Descargar o clonar el repositorio.
+2. Abrir la carpeta SpiderGym.
+3. Abrir `index.html` con un navegador.
+4. Utilizar el menú para acceder a Máquinas.
+5. Seleccionar «Ver detalle» en Extensión de piernas para consultar su ficha.
 
-## Decisiones técnicas
+No es necesario instalar un servidor para visualizar las páginas HTML actuales.
 
-- Usar HTML semántico para que cada parte del contenido tenga una función clara.
-- Mantener las tres páginas en la raíz y utilizar rutas relativas para poder
-  abrir el sitio localmente y trasladarlo sin cambiar los enlaces.
-- Guardar las imágenes en `img/` y añadir texto alternativo a cada una.
+## 10. Uso de inteligencia artificial
 
-## Uso de IA en esta preparación
+Durante el desarrollo se ha utilizado ChatGPT como herramienta de apoyo para:
 
-Se ha utilizado Codex para preparar la subida a GitHub, corregir la ubicación de
-la cabecera de `index.html` dentro de `body`, ajustar los nombres de las imágenes a sus formatos reales, actualizar este README y comprobar
-los enlaces, las imágenes y la estructura básica mediante Python. El resultado
-de esa comprobación se guarda en `evidencias/`. No se han implementado las
-funciones futuras de registro de entrenamientos.
+- Resolver dudas sobre HTML.
+- Comprender las etiquetas semánticas.
+- Aprender conceptos de accesibilidad.
+- Revisar la navegación.
+- Proponer mejoras.
+- Explicar el funcionamiento de NFC y QR.
+- Preparar ejercicios y actividades de aprendizaje.
 
-## Estado del proyecto
+Las propuestas de IA se revisan antes de incorporarlas al proyecto.
 
-Primera versión HTML navegable. El proyecto continuará ampliándose durante las
-siguientes quincenas.
+El registro de IA recoge tanto actividades trabajadas como ejercicios preparados que todavía pueden requerir revisión o evidencias adicionales.
+
+## 11. Documentación y evidencias
+
+Se han preparado registros sobre accesibilidad, errores corregidos y utilización de IA.
+
+También se han guardado capturas de la tabla de máquinas y de la ficha de Extensión de piernas.
+
+Antes de la entrega final se revisarán la memoria descriptiva, las actividades de IA, sus evidencias y la documentación del repositorio.
+
+## 12. Conclusión
+
+SpiderGym es un proyecto en desarrollo que me permite aprender HTML y comprender cómo organizar una aplicación web.
+
+Durante la tercera quincena he mejorado la estructura, navegación, accesibilidad y documentación de las páginas.
+
+El objetivo es continuar ampliándolo poco a poco, entendiendo el código y utilizando la inteligencia artificial como herramienta de apoyo al aprendizaje.
+
+---
+
+**Proyecto SpiderGym — ASIX — LMSGI**
+
+*Datos que te hacen más fuerte.*

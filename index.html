@@ -1,10 +1,21 @@
 <!DOCTYPE html>
 <html lang="es">
 
+
 <head>
     <meta charset="UTF-8">
-    <title>SpiderGym</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta name="description" content="SpiderGym es un proyecto de gimnasio conectado para registrar entrenamientos y consultar el progreso.">
+
+    <title>SpiderGym - Inicio</title>
+
+    <!-- Metadatos para compartir la página -->
+    <meta property="og:title" content="SpiderGym - Datos que te hacen más fuerte">
+    <meta property="og:description" content="Descubre SpiderGym, un proyecto para conectar máquinas y registrar entrenamientos.">
+    <meta property="og:type" content="website">
 </head>
+
 
 <body>
 
@@ -16,10 +27,13 @@
         <p>Datos que te hacen más fuerte</p>
     </header>
 
-    <nav>
-        <a href="index.html">Inicio</a>
-        <a href="maquinas.html">Máquinas</a>
-    </nav>
+  
+<nav aria-label="Navegación principal">
+    <a href="index.html">Inicio</a>
+    <a href="maquinas.html" aria-current="page">Máquinas</a>
+</nav>
+
+
 
 <main>
 
@@ -37,6 +51,22 @@
     </p>
 
     <h2>¿Cómo funciona?</h2>
+
+
+<p>
+    El usuario se identifica en la máquina mediante una tarjeta NFC
+    o un código QR. Así, SpiderGym puede saber quién está utilizando
+    esa máquina y asociar el entrenamiento a su perfil.
+</p>
+
+<p>
+    Para registrar automáticamente las repeticiones y el peso,
+    la máquina necesitaría sensores o un sistema compatible.
+    Si no dispone de ellos, el usuario podría introducir los
+    datos manualmente. Por ahora es una idea del proyecto,
+    no una conexión real.
+</p>
+
 
     <ol>
         <li>El usuario se identifica mediante NFC o QR.</li>
