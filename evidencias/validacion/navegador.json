@@ -1,0 +1,919 @@
+{
+  "executedAt": "2026-11-05T18:21:02.558Z",
+  "browser": "155.0.8059.85",
+  "base": "http://127.0.0.1:53560",
+  "method": "Contexto nuevo por ancho y DPR; caché de servidor desactivada; lectura de currentSrc y respuestas HTTP. Capturas automatizadas, no capturas de DevTools.",
+  "responsive": [
+    {
+      "width": 320,
+      "dpr": 1,
+      "expected": 480,
+      "pass": true,
+      "overflow": false,
+      "images": [
+        {
+          "alt": "Máquina de extensión de piernas con asiento, respaldo inclinado y rodillos acolchados frente a las piernas.",
+          "currentSrc": "http://127.0.0.1:53560/assets/images/extension-piernas-480w.jpg",
+          "naturalWidth": 480,
+          "naturalHeight": 574,
+          "renderedWidth": 240,
+          "renderedHeight": 287,
+          "complete": true
+        },
+        {
+          "alt": "Mujer sentada en una máquina de press de pecho, sujetando dos empuñaduras a la altura del tórax.",
+          "currentSrc": "http://127.0.0.1:53560/assets/images/press-pecho-480w.jpg",
+          "naturalWidth": 480,
+          "naturalHeight": 320,
+          "renderedWidth": 240,
+          "renderedHeight": 160,
+          "complete": true
+        },
+        {
+          "alt": "Persona sentada en una máquina de jalón al pecho, con los brazos elevados hacia una barra unida a una polea superior.",
+          "currentSrc": "http://127.0.0.1:53560/assets/images/jalon-pecho-480w.jpg",
+          "naturalWidth": 480,
+          "naturalHeight": 853,
+          "renderedWidth": 240,
+          "renderedHeight": 427,
+          "complete": true
+        }
+      ],
+      "requests": [
+        {
+          "url": "http://127.0.0.1:53560/assets/images/extension-piernas-480w.jpg",
+          "status": 200,
+          "resource": "image"
+        },
+        {
+          "url": "http://127.0.0.1:53560/assets/images/jalon-pecho-480w.jpg",
+          "status": 200,
+          "resource": "image"
+        },
+        {
+          "url": "http://127.0.0.1:53560/assets/images/press-pecho-480w.jpg",
+          "status": 200,
+          "resource": "image"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "width": 375,
+      "dpr": 1,
+      "expected": 480,
+      "pass": true,
+      "overflow": false,
+      "images": [
+        {
+          "alt": "Máquina de extensión de piernas con asiento, respaldo inclinado y rodillos acolchados frente a las piernas.",
+          "currentSrc": "http://127.0.0.1:53560/assets/images/extension-piernas-480w.jpg",
+          "naturalWidth": 480,
+          "naturalHeight": 574,
+          "renderedWidth": 240,
+          "renderedHeight": 287,
+          "complete": true
+        },
+        {
+          "alt": "Mujer sentada en una máquina de press de pecho, sujetando dos empuñaduras a la altura del tórax.",
+          "currentSrc": "http://127.0.0.1:53560/assets/images/press-pecho-480w.jpg",
+          "naturalWidth": 480,
+          "naturalHeight": 320,
+          "renderedWidth": 240,
+          "renderedHeight": 160,
+          "complete": true
+        },
+        {
+          "alt": "Persona sentada en una máquina de jalón al pecho, con los brazos elevados hacia una barra unida a una polea superior.",
+          "currentSrc": "http://127.0.0.1:53560/assets/images/jalon-pecho-480w.jpg",
+          "naturalWidth": 480,
+          "naturalHeight": 853,
+          "renderedWidth": 240,
+          "renderedHeight": 427,
+          "complete": true
+        }
+      ],
+      "requests": [
+        {
+          "url": "http://127.0.0.1:53560/assets/images/extension-piernas-480w.jpg",
+          "status": 200,
+          "resource": "image"
+        },
+        {
+          "url": "http://127.0.0.1:53560/assets/images/press-pecho-480w.jpg",
+          "status": 200,
+          "resource": "image"
+        },
+        {
+          "url": "http://127.0.0.1:53560/assets/images/jalon-pecho-480w.jpg",
+          "status": 200,
+          "resource": "image"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "width": 767,
+      "dpr": 1,
+      "expected": 480,
+      "pass": true,
+      "overflow": false,
+      "images": [
+        {
+          "alt": "Máquina de extensión de piernas con asiento, respaldo inclinado y rodillos acolchados frente a las piernas.",
+          "currentSrc": "http://127.0.0.1:53560/assets/images/extension-piernas-480w.jpg",
+          "naturalWidth": 480,
+          "naturalHeight": 574,
+          "renderedWidth": 240,
+          "renderedHeight": 287,
+          "complete": true
+        },
+        {
+          "alt": "Mujer sentada en una máquina de press de pecho, sujetando dos empuñaduras a la altura del tórax.",
+          "currentSrc": "http://127.0.0.1:53560/assets/images/press-pecho-480w.jpg",
+          "naturalWidth": 480,
+          "naturalHeight": 320,
+          "renderedWidth": 240,
+          "renderedHeight": 160,
+          "complete": true
+        },
+        {
+          "alt": "Persona sentada en una máquina de jalón al pecho, con los brazos elevados hacia una barra unida a una polea superior.",
+          "currentSrc": "http://127.0.0.1:53560/assets/images/jalon-pecho-480w.jpg",
+          "naturalWidth": 480,
+          "naturalHeight": 853,
+          "renderedWidth": 240,
+          "renderedHeight": 427,
+          "complete": true
+        }
+      ],
+      "requests": [
+        {
+          "url": "http://127.0.0.1:53560/assets/images/extension-piernas-480w.jpg",
+          "status": 200,
+          "resource": "image"
+        },
+        {
+          "url": "http://127.0.0.1:53560/assets/images/press-pecho-480w.jpg",
+          "status": 200,
+          "resource": "image"
+        },
+        {
+          "url": "http://127.0.0.1:53560/assets/images/jalon-pecho-480w.jpg",
+          "status": 200,
+          "resource": "image"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "width": 768,
+      "dpr": 1,
+      "expected": 768,
+      "pass": true,
+      "overflow": false,
+      "images": [
+        {
+          "alt": "Máquina de extensión de piernas con asiento, respaldo inclinado y rodillos acolchados frente a las piernas.",
+          "currentSrc": "http://127.0.0.1:53560/assets/images/extension-piernas-768w.jpg",
+          "naturalWidth": 768,
+          "naturalHeight": 918,
+          "renderedWidth": 240,
+          "renderedHeight": 287,
+          "complete": true
+        },
+        {
+          "alt": "Mujer sentada en una máquina de press de pecho, sujetando dos empuñaduras a la altura del tórax.",
+          "currentSrc": "http://127.0.0.1:53560/assets/images/press-pecho-768w.jpg",
+          "naturalWidth": 768,
+          "naturalHeight": 512,
+          "renderedWidth": 240,
+          "renderedHeight": 160,
+          "complete": true
+        },
+        {
+          "alt": "Persona sentada en una máquina de jalón al pecho, con los brazos elevados hacia una barra unida a una polea superior.",
+          "currentSrc": "http://127.0.0.1:53560/assets/images/jalon-pecho-768w.jpg",
+          "naturalWidth": 768,
+          "naturalHeight": 1365,
+          "renderedWidth": 240,
+          "renderedHeight": 427,
+          "complete": true
+        }
+      ],
+      "requests": [
+        {
+          "url": "http://127.0.0.1:53560/assets/images/press-pecho-768w.jpg",
+          "status": 200,
+          "resource": "image"
+        },
+        {
+          "url": "http://127.0.0.1:53560/assets/images/extension-piernas-768w.jpg",
+          "status": 200,
+          "resource": "image"
+        },
+        {
+          "url": "http://127.0.0.1:53560/assets/images/jalon-pecho-768w.jpg",
+          "status": 200,
+          "resource": "image"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "width": 1199,
+      "dpr": 1,
+      "expected": 768,
+      "pass": true,
+      "overflow": false,
+      "images": [
+        {
+          "alt": "Máquina de extensión de piernas con asiento, respaldo inclinado y rodillos acolchados frente a las piernas.",
+          "currentSrc": "http://127.0.0.1:53560/assets/images/extension-piernas-768w.jpg",
+          "naturalWidth": 768,
+          "naturalHeight": 918,
+          "renderedWidth": 240,
+          "renderedHeight": 287,
+          "complete": true
+        },
+        {
+          "alt": "Mujer sentada en una máquina de press de pecho, sujetando dos empuñaduras a la altura del tórax.",
+          "currentSrc": "http://127.0.0.1:53560/assets/images/press-pecho-768w.jpg",
+          "naturalWidth": 768,
+          "naturalHeight": 512,
+          "renderedWidth": 240,
+          "renderedHeight": 160,
+          "complete": true
+        },
+        {
+          "alt": "Persona sentada en una máquina de jalón al pecho, con los brazos elevados hacia una barra unida a una polea superior.",
+          "currentSrc": "http://127.0.0.1:53560/assets/images/jalon-pecho-768w.jpg",
+          "naturalWidth": 768,
+          "naturalHeight": 1365,
+          "renderedWidth": 240,
+          "renderedHeight": 427,
+          "complete": true
+        }
+      ],
+      "requests": [
+        {
+          "url": "http://127.0.0.1:53560/assets/images/extension-piernas-768w.jpg",
+          "status": 200,
+          "resource": "image"
+        },
+        {
+          "url": "http://127.0.0.1:53560/assets/images/press-pecho-768w.jpg",
+          "status": 200,
+          "resource": "image"
+        },
+        {
+          "url": "http://127.0.0.1:53560/assets/images/jalon-pecho-768w.jpg",
+          "status": 200,
+          "resource": "image"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "width": 1200,
+      "dpr": 1,
+      "expected": 1920,
+      "pass": true,
+      "overflow": false,
+      "images": [
+        {
+          "alt": "Máquina de extensión de piernas con asiento, respaldo inclinado y rodillos acolchados frente a las piernas.",
+          "currentSrc": "http://127.0.0.1:53560/assets/images/extension-piernas-1920w.jpg",
+          "naturalWidth": 1920,
+          "naturalHeight": 2296,
+          "renderedWidth": 240,
+          "renderedHeight": 287,
+          "complete": true
+        },
+        {
+          "alt": "Mujer sentada en una máquina de press de pecho, sujetando dos empuñaduras a la altura del tórax.",
+          "currentSrc": "http://127.0.0.1:53560/assets/images/press-pecho-1920w.jpg",
+          "naturalWidth": 1920,
+          "naturalHeight": 1280,
+          "renderedWidth": 240,
+          "renderedHeight": 160,
+          "complete": true
+        },
+        {
+          "alt": "Persona sentada en una máquina de jalón al pecho, con los brazos elevados hacia una barra unida a una polea superior.",
+          "currentSrc": "http://127.0.0.1:53560/assets/images/jalon-pecho-1920w.jpg",
+          "naturalWidth": 1920,
+          "naturalHeight": 3413,
+          "renderedWidth": 240,
+          "renderedHeight": 427,
+          "complete": true
+        }
+      ],
+      "requests": [
+        {
+          "url": "http://127.0.0.1:53560/assets/images/press-pecho-1920w.jpg",
+          "status": 200,
+          "resource": "image"
+        },
+        {
+          "url": "http://127.0.0.1:53560/assets/images/extension-piernas-1920w.jpg",
+          "status": 200,
+          "resource": "image"
+        },
+        {
+          "url": "http://127.0.0.1:53560/assets/images/jalon-pecho-1920w.jpg",
+          "status": 200,
+          "resource": "image"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "width": 1440,
+      "dpr": 1,
+      "expected": 1920,
+      "pass": true,
+      "overflow": false,
+      "images": [
+        {
+          "alt": "Máquina de extensión de piernas con asiento, respaldo inclinado y rodillos acolchados frente a las piernas.",
+          "currentSrc": "http://127.0.0.1:53560/assets/images/extension-piernas-1920w.jpg",
+          "naturalWidth": 1920,
+          "naturalHeight": 2296,
+          "renderedWidth": 240,
+          "renderedHeight": 287,
+          "complete": true
+        },
+        {
+          "alt": "Mujer sentada en una máquina de press de pecho, sujetando dos empuñaduras a la altura del tórax.",
+          "currentSrc": "http://127.0.0.1:53560/assets/images/press-pecho-1920w.jpg",
+          "naturalWidth": 1920,
+          "naturalHeight": 1280,
+          "renderedWidth": 240,
+          "renderedHeight": 160,
+          "complete": true
+        },
+        {
+          "alt": "Persona sentada en una máquina de jalón al pecho, con los brazos elevados hacia una barra unida a una polea superior.",
+          "currentSrc": "http://127.0.0.1:53560/assets/images/jalon-pecho-1920w.jpg",
+          "naturalWidth": 1920,
+          "naturalHeight": 3413,
+          "renderedWidth": 240,
+          "renderedHeight": 427,
+          "complete": true
+        }
+      ],
+      "requests": [
+        {
+          "url": "http://127.0.0.1:53560/assets/images/press-pecho-1920w.jpg",
+          "status": 200,
+          "resource": "image"
+        },
+        {
+          "url": "http://127.0.0.1:53560/assets/images/extension-piernas-1920w.jpg",
+          "status": 200,
+          "resource": "image"
+        },
+        {
+          "url": "http://127.0.0.1:53560/assets/images/jalon-pecho-1920w.jpg",
+          "status": 200,
+          "resource": "image"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "width": 320,
+      "dpr": 2,
+      "expected": 480,
+      "pass": true,
+      "overflow": false,
+      "images": [
+        {
+          "alt": "Máquina de extensión de piernas con asiento, respaldo inclinado y rodillos acolchados frente a las piernas.",
+          "currentSrc": "http://127.0.0.1:53560/assets/images/extension-piernas-480w.jpg",
+          "naturalWidth": 480,
+          "naturalHeight": 574,
+          "renderedWidth": 240,
+          "renderedHeight": 287,
+          "complete": true
+        },
+        {
+          "alt": "Mujer sentada en una máquina de press de pecho, sujetando dos empuñaduras a la altura del tórax.",
+          "currentSrc": "http://127.0.0.1:53560/assets/images/press-pecho-480w.jpg",
+          "naturalWidth": 480,
+          "naturalHeight": 320,
+          "renderedWidth": 240,
+          "renderedHeight": 160,
+          "complete": true
+        },
+        {
+          "alt": "Persona sentada en una máquina de jalón al pecho, con los brazos elevados hacia una barra unida a una polea superior.",
+          "currentSrc": "http://127.0.0.1:53560/assets/images/jalon-pecho-480w.jpg",
+          "naturalWidth": 480,
+          "naturalHeight": 853,
+          "renderedWidth": 240,
+          "renderedHeight": 427,
+          "complete": true
+        }
+      ],
+      "requests": [
+        {
+          "url": "http://127.0.0.1:53560/assets/images/press-pecho-480w.jpg",
+          "status": 200,
+          "resource": "image"
+        },
+        {
+          "url": "http://127.0.0.1:53560/assets/images/extension-piernas-480w.jpg",
+          "status": 200,
+          "resource": "image"
+        },
+        {
+          "url": "http://127.0.0.1:53560/assets/images/jalon-pecho-480w.jpg",
+          "status": 200,
+          "resource": "image"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "width": 375,
+      "dpr": 2,
+      "expected": 480,
+      "pass": true,
+      "overflow": false,
+      "images": [
+        {
+          "alt": "Máquina de extensión de piernas con asiento, respaldo inclinado y rodillos acolchados frente a las piernas.",
+          "currentSrc": "http://127.0.0.1:53560/assets/images/extension-piernas-480w.jpg",
+          "naturalWidth": 480,
+          "naturalHeight": 574,
+          "renderedWidth": 240,
+          "renderedHeight": 287,
+          "complete": true
+        },
+        {
+          "alt": "Mujer sentada en una máquina de press de pecho, sujetando dos empuñaduras a la altura del tórax.",
+          "currentSrc": "http://127.0.0.1:53560/assets/images/press-pecho-480w.jpg",
+          "naturalWidth": 480,
+          "naturalHeight": 320,
+          "renderedWidth": 240,
+          "renderedHeight": 160,
+          "complete": true
+        },
+        {
+          "alt": "Persona sentada en una máquina de jalón al pecho, con los brazos elevados hacia una barra unida a una polea superior.",
+          "currentSrc": "http://127.0.0.1:53560/assets/images/jalon-pecho-480w.jpg",
+          "naturalWidth": 480,
+          "naturalHeight": 853,
+          "renderedWidth": 240,
+          "renderedHeight": 427,
+          "complete": true
+        }
+      ],
+      "requests": [
+        {
+          "url": "http://127.0.0.1:53560/assets/images/extension-piernas-480w.jpg",
+          "status": 200,
+          "resource": "image"
+        },
+        {
+          "url": "http://127.0.0.1:53560/assets/images/press-pecho-480w.jpg",
+          "status": 200,
+          "resource": "image"
+        },
+        {
+          "url": "http://127.0.0.1:53560/assets/images/jalon-pecho-480w.jpg",
+          "status": 200,
+          "resource": "image"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "width": 767,
+      "dpr": 2,
+      "expected": 480,
+      "pass": true,
+      "overflow": false,
+      "images": [
+        {
+          "alt": "Máquina de extensión de piernas con asiento, respaldo inclinado y rodillos acolchados frente a las piernas.",
+          "currentSrc": "http://127.0.0.1:53560/assets/images/extension-piernas-480w.jpg",
+          "naturalWidth": 480,
+          "naturalHeight": 574,
+          "renderedWidth": 240,
+          "renderedHeight": 287,
+          "complete": true
+        },
+        {
+          "alt": "Mujer sentada en una máquina de press de pecho, sujetando dos empuñaduras a la altura del tórax.",
+          "currentSrc": "http://127.0.0.1:53560/assets/images/press-pecho-480w.jpg",
+          "naturalWidth": 480,
+          "naturalHeight": 320,
+          "renderedWidth": 240,
+          "renderedHeight": 160,
+          "complete": true
+        },
+        {
+          "alt": "Persona sentada en una máquina de jalón al pecho, con los brazos elevados hacia una barra unida a una polea superior.",
+          "currentSrc": "http://127.0.0.1:53560/assets/images/jalon-pecho-480w.jpg",
+          "naturalWidth": 480,
+          "naturalHeight": 853,
+          "renderedWidth": 240,
+          "renderedHeight": 427,
+          "complete": true
+        }
+      ],
+      "requests": [
+        {
+          "url": "http://127.0.0.1:53560/assets/images/extension-piernas-480w.jpg",
+          "status": 200,
+          "resource": "image"
+        },
+        {
+          "url": "http://127.0.0.1:53560/assets/images/press-pecho-480w.jpg",
+          "status": 200,
+          "resource": "image"
+        },
+        {
+          "url": "http://127.0.0.1:53560/assets/images/jalon-pecho-480w.jpg",
+          "status": 200,
+          "resource": "image"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "width": 768,
+      "dpr": 2,
+      "expected": 768,
+      "pass": true,
+      "overflow": false,
+      "images": [
+        {
+          "alt": "Máquina de extensión de piernas con asiento, respaldo inclinado y rodillos acolchados frente a las piernas.",
+          "currentSrc": "http://127.0.0.1:53560/assets/images/extension-piernas-768w.jpg",
+          "naturalWidth": 768,
+          "naturalHeight": 918,
+          "renderedWidth": 240,
+          "renderedHeight": 287,
+          "complete": true
+        },
+        {
+          "alt": "Mujer sentada en una máquina de press de pecho, sujetando dos empuñaduras a la altura del tórax.",
+          "currentSrc": "http://127.0.0.1:53560/assets/images/press-pecho-768w.jpg",
+          "naturalWidth": 768,
+          "naturalHeight": 512,
+          "renderedWidth": 240,
+          "renderedHeight": 160,
+          "complete": true
+        },
+        {
+          "alt": "Persona sentada en una máquina de jalón al pecho, con los brazos elevados hacia una barra unida a una polea superior.",
+          "currentSrc": "http://127.0.0.1:53560/assets/images/jalon-pecho-768w.jpg",
+          "naturalWidth": 768,
+          "naturalHeight": 1365,
+          "renderedWidth": 240,
+          "renderedHeight": 427,
+          "complete": true
+        }
+      ],
+      "requests": [
+        {
+          "url": "http://127.0.0.1:53560/assets/images/extension-piernas-768w.jpg",
+          "status": 200,
+          "resource": "image"
+        },
+        {
+          "url": "http://127.0.0.1:53560/assets/images/press-pecho-768w.jpg",
+          "status": 200,
+          "resource": "image"
+        },
+        {
+          "url": "http://127.0.0.1:53560/assets/images/jalon-pecho-768w.jpg",
+          "status": 200,
+          "resource": "image"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "width": 1199,
+      "dpr": 2,
+      "expected": 768,
+      "pass": true,
+      "overflow": false,
+      "images": [
+        {
+          "alt": "Máquina de extensión de piernas con asiento, respaldo inclinado y rodillos acolchados frente a las piernas.",
+          "currentSrc": "http://127.0.0.1:53560/assets/images/extension-piernas-768w.jpg",
+          "naturalWidth": 768,
+          "naturalHeight": 918,
+          "renderedWidth": 240,
+          "renderedHeight": 287,
+          "complete": true
+        },
+        {
+          "alt": "Mujer sentada en una máquina de press de pecho, sujetando dos empuñaduras a la altura del tórax.",
+          "currentSrc": "http://127.0.0.1:53560/assets/images/press-pecho-768w.jpg",
+          "naturalWidth": 768,
+          "naturalHeight": 512,
+          "renderedWidth": 240,
+          "renderedHeight": 160,
+          "complete": true
+        },
+        {
+          "alt": "Persona sentada en una máquina de jalón al pecho, con los brazos elevados hacia una barra unida a una polea superior.",
+          "currentSrc": "http://127.0.0.1:53560/assets/images/jalon-pecho-768w.jpg",
+          "naturalWidth": 768,
+          "naturalHeight": 1365,
+          "renderedWidth": 240,
+          "renderedHeight": 427,
+          "complete": true
+        }
+      ],
+      "requests": [
+        {
+          "url": "http://127.0.0.1:53560/assets/images/extension-piernas-768w.jpg",
+          "status": 200,
+          "resource": "image"
+        },
+        {
+          "url": "http://127.0.0.1:53560/assets/images/press-pecho-768w.jpg",
+          "status": 200,
+          "resource": "image"
+        },
+        {
+          "url": "http://127.0.0.1:53560/assets/images/jalon-pecho-768w.jpg",
+          "status": 200,
+          "resource": "image"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "width": 1200,
+      "dpr": 2,
+      "expected": 1920,
+      "pass": true,
+      "overflow": false,
+      "images": [
+        {
+          "alt": "Máquina de extensión de piernas con asiento, respaldo inclinado y rodillos acolchados frente a las piernas.",
+          "currentSrc": "http://127.0.0.1:53560/assets/images/extension-piernas-1920w.jpg",
+          "naturalWidth": 1920,
+          "naturalHeight": 2296,
+          "renderedWidth": 240,
+          "renderedHeight": 287,
+          "complete": true
+        },
+        {
+          "alt": "Mujer sentada en una máquina de press de pecho, sujetando dos empuñaduras a la altura del tórax.",
+          "currentSrc": "http://127.0.0.1:53560/assets/images/press-pecho-1920w.jpg",
+          "naturalWidth": 1920,
+          "naturalHeight": 1280,
+          "renderedWidth": 240,
+          "renderedHeight": 160,
+          "complete": true
+        },
+        {
+          "alt": "Persona sentada en una máquina de jalón al pecho, con los brazos elevados hacia una barra unida a una polea superior.",
+          "currentSrc": "http://127.0.0.1:53560/assets/images/jalon-pecho-1920w.jpg",
+          "naturalWidth": 1920,
+          "naturalHeight": 3413,
+          "renderedWidth": 240,
+          "renderedHeight": 427,
+          "complete": true
+        }
+      ],
+      "requests": [
+        {
+          "url": "http://127.0.0.1:53560/assets/images/extension-piernas-1920w.jpg",
+          "status": 200,
+          "resource": "image"
+        },
+        {
+          "url": "http://127.0.0.1:53560/assets/images/press-pecho-1920w.jpg",
+          "status": 200,
+          "resource": "image"
+        },
+        {
+          "url": "http://127.0.0.1:53560/assets/images/jalon-pecho-1920w.jpg",
+          "status": 200,
+          "resource": "image"
+        }
+      ],
+      "errors": []
+    },
+    {
+      "width": 1440,
+      "dpr": 2,
+      "expected": 1920,
+      "pass": true,
+      "overflow": false,
+      "images": [
+        {
+          "alt": "Máquina de extensión de piernas con asiento, respaldo inclinado y rodillos acolchados frente a las piernas.",
+          "currentSrc": "http://127.0.0.1:53560/assets/images/extension-piernas-1920w.jpg",
+          "naturalWidth": 1920,
+          "naturalHeight": 2296,
+          "renderedWidth": 240,
+          "renderedHeight": 287,
+          "complete": true
+        },
+        {
+          "alt": "Mujer sentada en una máquina de press de pecho, sujetando dos empuñaduras a la altura del tórax.",
+          "currentSrc": "http://127.0.0.1:53560/assets/images/press-pecho-1920w.jpg",
+          "naturalWidth": 1920,
+          "naturalHeight": 1280,
+          "renderedWidth": 240,
+          "renderedHeight": 160,
+          "complete": true
+        },
+        {
+          "alt": "Persona sentada en una máquina de jalón al pecho, con los brazos elevados hacia una barra unida a una polea superior.",
+          "currentSrc": "http://127.0.0.1:53560/assets/images/jalon-pecho-1920w.jpg",
+          "naturalWidth": 1920,
+          "naturalHeight": 3413,
+          "renderedWidth": 240,
+          "renderedHeight": 427,
+          "complete": true
+        }
+      ],
+      "requests": [
+        {
+          "url": "http://127.0.0.1:53560/assets/images/extension-piernas-1920w.jpg",
+          "status": 200,
+          "resource": "image"
+        },
+        {
+          "url": "http://127.0.0.1:53560/assets/images/press-pecho-1920w.jpg",
+          "status": 200,
+          "resource": "image"
+        },
+        {
+          "url": "http://127.0.0.1:53560/assets/images/jalon-pecho-1920w.jpg",
+          "status": 200,
+          "resource": "image"
+        }
+      ],
+      "errors": []
+    }
+  ],
+  "pages": [
+    {
+      "filename": "index.html",
+      "status": 200,
+      "title": "SpiderGym - Inicio",
+      "h1": 1,
+      "main": 1,
+      "lang": "es",
+      "brokenImages": [],
+      "headings": [
+        "H1: SpiderGym",
+        "H2: ¿Qué es SpiderGym?",
+        "H2: ¿Cómo funciona?",
+        "H2: Objetivo del proyecto"
+      ],
+      "keyboard": null,
+      "errors": []
+    },
+    {
+      "filename": "maquinas.html",
+      "status": 200,
+      "title": "SpiderGym - Máquinas",
+      "h1": 1,
+      "main": 1,
+      "lang": "es",
+      "brokenImages": [],
+      "headings": [
+        "H1: Máquinas SpiderGym",
+        "H2: Catálogo de máquinas",
+        "H3: Extensión de piernas",
+        "H3: Press de pecho",
+        "H3: Jalón al pecho",
+        "H2: Máquinas por gimnasio"
+      ],
+      "keyboard": null,
+      "errors": []
+    },
+    {
+      "filename": "maquina-extension-piernas.html",
+      "status": 200,
+      "title": "SpiderGym - Extensión de piernas",
+      "h1": 1,
+      "main": 1,
+      "lang": "es",
+      "brokenImages": [],
+      "headings": [
+        "H1: Extensión de piernas",
+        "H2: Máquina de extensión de piernas",
+        "H3: Información",
+        "H3: Funcionamiento en SpiderGym",
+        "H2: Datos que puede registrar"
+      ],
+      "keyboard": null,
+      "errors": []
+    },
+    {
+      "filename": "galeria.html",
+      "status": 200,
+      "title": "SpiderGym - Galería de máquinas",
+      "h1": 1,
+      "main": 1,
+      "lang": "es",
+      "brokenImages": [],
+      "headings": [
+        "H1: Galería de máquinas SpiderGym",
+        "H2: Extensión de piernas",
+        "H2: Press de pecho",
+        "H2: Jalón al pecho"
+      ],
+      "keyboard": {
+        "first": "#contenido",
+        "jumped": true,
+        "following": "créditos y condiciones de las imágenes"
+      },
+      "errors": []
+    },
+    {
+      "filename": "galeria.htm",
+      "status": 200,
+      "title": "SpiderGym - Acceso a la galería",
+      "h1": 1,
+      "main": 1,
+      "lang": "es",
+      "brokenImages": [],
+      "headings": [
+        "H1: Galería SpiderGym"
+      ],
+      "keyboard": null,
+      "errors": []
+    },
+    {
+      "filename": "docs/licencias_recursos.html",
+      "status": 200,
+      "title": "SpiderGym - Créditos de las imágenes",
+      "h1": 1,
+      "main": 1,
+      "lang": "es",
+      "brokenImages": [],
+      "headings": [
+        "H1: Créditos y condiciones de las imágenes",
+        "H2: Extensión de piernas",
+        "H2: Press de pecho",
+        "H2: Jalón al pecho",
+        "H2: Condiciones que se conservan",
+        "H2: Límites"
+      ],
+      "keyboard": null,
+      "errors": []
+    },
+    {
+      "filename": "docs/entrega-3-2.html",
+      "status": 200,
+      "title": "SpiderGym - Documentación de la práctica 3.2",
+      "h1": 1,
+      "main": 1,
+      "lang": "es",
+      "brokenImages": [],
+      "headings": [
+        "H1: SpiderGym · Práctica 3.2",
+        "H2: Resultado práctico",
+        "H2: Imágenes adaptativas reales",
+        "H2: Accesibilidad y significado",
+        "H2: Metadatos verificables",
+        "H2: Procedencia y derechos",
+        "H2: Documentación y evidencias",
+        "H2: Transferencia y uso de IA"
+      ],
+      "keyboard": null,
+      "errors": []
+    }
+  ],
+  "failures": [],
+  "withoutImages": {
+    "blocked": [
+      {
+        "alt": "Máquina de extensión de piernas con asiento, respaldo inclinado y rodillos acolchados frente a las piernas.",
+        "naturalWidth": 0,
+        "complete": true
+      },
+      {
+        "alt": "Mujer sentada en una máquina de press de pecho, sujetando dos empuñaduras a la altura del tórax.",
+        "naturalWidth": 0,
+        "complete": true
+      },
+      {
+        "alt": "Persona sentada en una máquina de jalón al pecho, con los brazos elevados hacia una barra unida a una polea superior.",
+        "naturalWidth": 0,
+        "complete": true
+      }
+    ],
+    "figcaptions": 3,
+    "articles": 3,
+    "method": "Petición de cada JPEG bloqueada antes de cargar. Se conserva el texto alternativo y el contenido HTML."
+  },
+  "result": "PASS"
+}

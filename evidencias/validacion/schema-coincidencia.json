@@ -1,0 +1,9 @@
+{
+  "fragmentMatchesDeliveredJsonLd": true,
+  "file": "data-galeria.jsonld",
+  "objects": 10,
+  "imageObjects": 9,
+  "observedResult": "ImageGallery: 0 ERRORES, 0 ADVERTENCIAS",
+  "method": "Interfaz oficial validator.schema.org; fragmento público reconstruido de los datos del archivo y comparado estructuralmente después de enviarlo. Captura y snapshot DOM auténticos.",
+  "baseWarning": "example-test.site es la base sintética que asigna el validador a las rutas relativas; no es un despliegue de SpiderGym."
+}

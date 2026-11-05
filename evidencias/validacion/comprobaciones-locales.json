@@ -1,0 +1,701 @@
+{
+  "executedAt": "2026-11-05T18:29:54.464245+00:00",
+  "scope": "Comprobaciones propias de archivos y coherencia; no es certificación W3C/WCAG ni Schema Validator",
+  "checks": 173,
+  "passed": 173,
+  "failures": [],
+  "results": [
+    {
+      "pass": true,
+      "detail": "Tres imágenes y nueve ImageObject"
+    },
+    {
+      "pass": true,
+      "detail": "Original sin cambios: extension-piernas.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "SHA-1 coincide con Commons: extension-piernas.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Licencia trazada a ficha Commons: extension-piernas"
+    },
+    {
+      "pass": true,
+      "detail": "Orientación y medida: extension-piernas"
+    },
+    {
+      "pass": true,
+      "detail": "Tres anchos solicitados: extension-piernas"
+    },
+    {
+      "pass": true,
+      "detail": "Dimensiones reales: extension-piernas-480w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Sin ampliación ni deformación: extension-piernas-480w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Hash JSON-LD/manifiesto/archivo: extension-piernas-480w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Bytes JSON-LD/manifiesto/archivo: extension-piernas-480w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Dimensiones en JSON-LD: extension-piernas-480w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Autoría/licencia/procedencia JSON-LD: extension-piernas-480w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Derivado sin EXIF/GPS: extension-piernas-480w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Dimensiones reales: extension-piernas-768w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Sin ampliación ni deformación: extension-piernas-768w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Hash JSON-LD/manifiesto/archivo: extension-piernas-768w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Bytes JSON-LD/manifiesto/archivo: extension-piernas-768w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Dimensiones en JSON-LD: extension-piernas-768w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Autoría/licencia/procedencia JSON-LD: extension-piernas-768w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Derivado sin EXIF/GPS: extension-piernas-768w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Dimensiones reales: extension-piernas-1920w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Sin ampliación ni deformación: extension-piernas-1920w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Hash JSON-LD/manifiesto/archivo: extension-piernas-1920w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Bytes JSON-LD/manifiesto/archivo: extension-piernas-1920w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Dimensiones en JSON-LD: extension-piernas-1920w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Autoría/licencia/procedencia JSON-LD: extension-piernas-1920w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Derivado sin EXIF/GPS: extension-piernas-1920w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Original sin cambios: press-pecho.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "SHA-1 coincide con Commons: press-pecho.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Licencia trazada a ficha Commons: press-pecho"
+    },
+    {
+      "pass": true,
+      "detail": "Orientación y medida: press-pecho"
+    },
+    {
+      "pass": true,
+      "detail": "Tres anchos solicitados: press-pecho"
+    },
+    {
+      "pass": true,
+      "detail": "Dimensiones reales: press-pecho-480w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Sin ampliación ni deformación: press-pecho-480w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Hash JSON-LD/manifiesto/archivo: press-pecho-480w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Bytes JSON-LD/manifiesto/archivo: press-pecho-480w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Dimensiones en JSON-LD: press-pecho-480w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Autoría/licencia/procedencia JSON-LD: press-pecho-480w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Derivado sin EXIF/GPS: press-pecho-480w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Dimensiones reales: press-pecho-768w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Sin ampliación ni deformación: press-pecho-768w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Hash JSON-LD/manifiesto/archivo: press-pecho-768w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Bytes JSON-LD/manifiesto/archivo: press-pecho-768w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Dimensiones en JSON-LD: press-pecho-768w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Autoría/licencia/procedencia JSON-LD: press-pecho-768w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Derivado sin EXIF/GPS: press-pecho-768w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Dimensiones reales: press-pecho-1920w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Sin ampliación ni deformación: press-pecho-1920w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Hash JSON-LD/manifiesto/archivo: press-pecho-1920w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Bytes JSON-LD/manifiesto/archivo: press-pecho-1920w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Dimensiones en JSON-LD: press-pecho-1920w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Autoría/licencia/procedencia JSON-LD: press-pecho-1920w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Derivado sin EXIF/GPS: press-pecho-1920w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Original sin cambios: jalon-pecho.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "SHA-1 coincide con Commons: jalon-pecho.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Licencia trazada a ficha Commons: jalon-pecho"
+    },
+    {
+      "pass": true,
+      "detail": "Orientación y medida: jalon-pecho"
+    },
+    {
+      "pass": true,
+      "detail": "Tres anchos solicitados: jalon-pecho"
+    },
+    {
+      "pass": true,
+      "detail": "Dimensiones reales: jalon-pecho-480w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Sin ampliación ni deformación: jalon-pecho-480w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Hash JSON-LD/manifiesto/archivo: jalon-pecho-480w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Bytes JSON-LD/manifiesto/archivo: jalon-pecho-480w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Dimensiones en JSON-LD: jalon-pecho-480w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Autoría/licencia/procedencia JSON-LD: jalon-pecho-480w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Derivado sin EXIF/GPS: jalon-pecho-480w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Dimensiones reales: jalon-pecho-768w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Sin ampliación ni deformación: jalon-pecho-768w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Hash JSON-LD/manifiesto/archivo: jalon-pecho-768w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Bytes JSON-LD/manifiesto/archivo: jalon-pecho-768w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Dimensiones en JSON-LD: jalon-pecho-768w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Autoría/licencia/procedencia JSON-LD: jalon-pecho-768w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Derivado sin EXIF/GPS: jalon-pecho-768w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Dimensiones reales: jalon-pecho-1920w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Sin ampliación ni deformación: jalon-pecho-1920w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Hash JSON-LD/manifiesto/archivo: jalon-pecho-1920w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Bytes JSON-LD/manifiesto/archivo: jalon-pecho-1920w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Dimensiones en JSON-LD: jalon-pecho-1920w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Autoría/licencia/procedencia JSON-LD: jalon-pecho-1920w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Derivado sin EXIF/GPS: jalon-pecho-1920w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Doctype: galeria.html"
+    },
+    {
+      "pass": true,
+      "detail": "Idioma: galeria.html"
+    },
+    {
+      "pass": true,
+      "detail": "Sin CSS: galeria.html"
+    },
+    {
+      "pass": true,
+      "detail": "Ruta local existente: galeria.html → #contenido"
+    },
+    {
+      "pass": true,
+      "detail": "Ancla existente: #contenido"
+    },
+    {
+      "pass": true,
+      "detail": "Ruta local existente: galeria.html → index.html"
+    },
+    {
+      "pass": true,
+      "detail": "Ruta local existente: galeria.html → maquinas.html"
+    },
+    {
+      "pass": true,
+      "detail": "Ruta local existente: galeria.html → galeria.html"
+    },
+    {
+      "pass": true,
+      "detail": "Ruta local existente: galeria.html → docs/licencias_recursos.html"
+    },
+    {
+      "pass": true,
+      "detail": "Ruta local existente: galeria.html → docs/entrega-3-2.html"
+    },
+    {
+      "pass": true,
+      "detail": "Ruta local existente: galeria.html → assets/images/extension-piernas-1920w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Ruta local existente: galeria.html → assets/images/extension-piernas-768w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Ruta local existente: galeria.html → assets/images/extension-piernas-480w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Alternativa y espacio reservado: galeria.html"
+    },
+    {
+      "pass": true,
+      "detail": "Ruta local existente: galeria.html → assets/images/extension-piernas-480w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Ruta local existente: galeria.html → assets/images/extension-piernas-768w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Ruta local existente: galeria.html → assets/images/extension-piernas-1920w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Ruta local existente: galeria.html → assets/images/press-pecho-1920w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Ruta local existente: galeria.html → assets/images/press-pecho-768w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Ruta local existente: galeria.html → assets/images/press-pecho-480w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Alternativa y espacio reservado: galeria.html"
+    },
+    {
+      "pass": true,
+      "detail": "Ruta local existente: galeria.html → assets/images/press-pecho-480w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Ruta local existente: galeria.html → assets/images/press-pecho-768w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Ruta local existente: galeria.html → assets/images/press-pecho-1920w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Ruta local existente: galeria.html → assets/images/jalon-pecho-1920w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Ruta local existente: galeria.html → assets/images/jalon-pecho-768w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Ruta local existente: galeria.html → assets/images/jalon-pecho-480w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Alternativa y espacio reservado: galeria.html"
+    },
+    {
+      "pass": true,
+      "detail": "Ruta local existente: galeria.html → assets/images/jalon-pecho-480w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Ruta local existente: galeria.html → assets/images/jalon-pecho-768w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Ruta local existente: galeria.html → assets/images/jalon-pecho-1920w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "JSON-LD embebido idéntico al entregado"
+    },
+    {
+      "pass": true,
+      "detail": "Tres picture en galería"
+    },
+    {
+      "pass": true,
+      "detail": "Sin JavaScript ejecutable en galería"
+    },
+    {
+      "pass": true,
+      "detail": "Metadatos coherentes con texto visible: extension-piernas"
+    },
+    {
+      "pass": true,
+      "detail": "Metadatos coherentes con texto visible: press-pecho"
+    },
+    {
+      "pass": true,
+      "detail": "Metadatos coherentes con texto visible: jalon-pecho"
+    },
+    {
+      "pass": true,
+      "detail": "Doctype: index.html"
+    },
+    {
+      "pass": true,
+      "detail": "Idioma: index.html"
+    },
+    {
+      "pass": true,
+      "detail": "Sin CSS: index.html"
+    },
+    {
+      "pass": true,
+      "detail": "Ruta local existente: index.html → #contenido"
+    },
+    {
+      "pass": true,
+      "detail": "Ancla existente: #contenido"
+    },
+    {
+      "pass": true,
+      "detail": "Ruta local existente: index.html → index.html"
+    },
+    {
+      "pass": true,
+      "detail": "Ruta local existente: index.html → maquinas.html"
+    },
+    {
+      "pass": true,
+      "detail": "Ruta local existente: index.html → galeria.html"
+    },
+    {
+      "pass": true,
+      "detail": "Doctype: maquinas.html"
+    },
+    {
+      "pass": true,
+      "detail": "Idioma: maquinas.html"
+    },
+    {
+      "pass": true,
+      "detail": "Sin CSS: maquinas.html"
+    },
+    {
+      "pass": true,
+      "detail": "Ruta local existente: maquinas.html → #contenido"
+    },
+    {
+      "pass": true,
+      "detail": "Ancla existente: #contenido"
+    },
+    {
+      "pass": true,
+      "detail": "Ruta local existente: maquinas.html → index.html"
+    },
+    {
+      "pass": true,
+      "detail": "Ruta local existente: maquinas.html → maquinas.html"
+    },
+    {
+      "pass": true,
+      "detail": "Ruta local existente: maquinas.html → galeria.html"
+    },
+    {
+      "pass": true,
+      "detail": "Ruta local existente: maquinas.html → maquina-extension-piernas.html"
+    },
+    {
+      "pass": true,
+      "detail": "Doctype: maquina-extension-piernas.html"
+    },
+    {
+      "pass": true,
+      "detail": "Idioma: maquina-extension-piernas.html"
+    },
+    {
+      "pass": true,
+      "detail": "Sin CSS: maquina-extension-piernas.html"
+    },
+    {
+      "pass": true,
+      "detail": "Ruta local existente: maquina-extension-piernas.html → #contenido"
+    },
+    {
+      "pass": true,
+      "detail": "Ancla existente: #contenido"
+    },
+    {
+      "pass": true,
+      "detail": "Ruta local existente: maquina-extension-piernas.html → index.html"
+    },
+    {
+      "pass": true,
+      "detail": "Ruta local existente: maquina-extension-piernas.html → maquinas.html"
+    },
+    {
+      "pass": true,
+      "detail": "Ruta local existente: maquina-extension-piernas.html → galeria.html"
+    },
+    {
+      "pass": true,
+      "detail": "Ruta local existente: maquina-extension-piernas.html → index.html"
+    },
+    {
+      "pass": true,
+      "detail": "Ruta local existente: maquina-extension-piernas.html → maquinas.html"
+    },
+    {
+      "pass": true,
+      "detail": "Ruta local existente: maquina-extension-piernas.html → assets/images/extension-piernas-1920w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Ruta local existente: maquina-extension-piernas.html → assets/images/extension-piernas-768w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Ruta local existente: maquina-extension-piernas.html → assets/images/extension-piernas-480w.jpg"
+    },
+    {
+      "pass": true,
+      "detail": "Alternativa y espacio reservado: maquina-extension-piernas.html"
+    },
+    {
+      "pass": true,
+      "detail": "Ruta local existente: maquina-extension-piernas.html → maquinas.html"
+    },
+    {
+      "pass": true,
+      "detail": "Doctype: galeria.htm"
+    },
+    {
+      "pass": true,
+      "detail": "Idioma: galeria.htm"
+    },
+    {
+      "pass": true,
+      "detail": "Sin CSS: galeria.htm"
+    },
+    {
+      "pass": true,
+      "detail": "Ruta local existente: galeria.htm → galeria.html"
+    },
+    {
+      "pass": true,
+      "detail": "Doctype: entrega-3-2.html"
+    },
+    {
+      "pass": true,
+      "detail": "Idioma: entrega-3-2.html"
+    },
+    {
+      "pass": true,
+      "detail": "Sin CSS: entrega-3-2.html"
+    },
+    {
+      "pass": true,
+      "detail": "Ruta local existente: entrega-3-2.html → #contenido"
+    },
+    {
+      "pass": true,
+      "detail": "Ancla existente: #contenido"
+    },
+    {
+      "pass": true,
+      "detail": "Ruta local existente: entrega-3-2.html → ../galeria.html"
+    },
+    {
+      "pass": true,
+      "detail": "Ruta local existente: entrega-3-2.html → licencias_recursos.html"
+    },
+    {
+      "pass": true,
+      "detail": "Ruta local existente: entrega-3-2.html → ../recursos.json"
+    },
+    {
+      "pass": true,
+      "detail": "Ruta local existente: entrega-3-2.html → ../data-galeria.jsonld"
+    },
+    {
+      "pass": true,
+      "detail": "Ruta local existente: entrega-3-2.html → galeria_decisiones.md"
+    },
+    {
+      "pass": true,
+      "detail": "Ruta local existente: entrega-3-2.html → requisitos.md"
+    },
+    {
+      "pass": true,
+      "detail": "Ruta local existente: entrega-3-2.html → validacion-3-2.md"
+    },
+    {
+      "pass": true,
+      "detail": "Ruta local existente: entrega-3-2.html → registro-cambios-3-2.md"
+    },
+    {
+      "pass": true,
+      "detail": "Ruta local existente: entrega-3-2.html → guion-video.md"
+    },
+    {
+      "pass": true,
+      "detail": "Ruta local existente: entrega-3-2.html → transferencia-article.jsonld"
+    },
+    {
+      "pass": true,
+      "detail": "Ruta local existente: entrega-3-2.html → transferencia-product.jsonld"
+    },
+    {
+      "pass": true,
+      "detail": "Doctype: licencias_recursos.html"
+    },
+    {
+      "pass": true,
+      "detail": "Idioma: licencias_recursos.html"
+    },
+    {
+      "pass": true,
+      "detail": "Sin CSS: licencias_recursos.html"
+    },
+    {
+      "pass": true,
+      "detail": "Ruta local existente: licencias_recursos.html → ../galeria.html"
+    },
+    {
+      "pass": true,
+      "detail": "Se conserva fila y pie de práctica 3.1"
+    }
+  ]
+}

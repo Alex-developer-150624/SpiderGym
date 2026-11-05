@@ -1,0 +1,65 @@
+[
+  {
+    "file": "index.html",
+    "sha256": "174001e66cd10c2034818f1281f8475b3569906c6c3c9410ab949b4e52f90c2e",
+    "executedAt": "2026-11-05T18:22:36.304230+00:00",
+    "httpStatus": 200,
+    "errors": 0,
+    "warnings": 0,
+    "messages": []
+  },
+  {
+    "file": "maquinas.html",
+    "sha256": "565b9de176583f8e7859f6b99458d0c711cd7c0c36369f063c0e82647a653423",
+    "executedAt": "2026-11-05T18:22:36.642620+00:00",
+    "httpStatus": 200,
+    "errors": 0,
+    "warnings": 0,
+    "messages": []
+  },
+  {
+    "file": "maquina-extension-piernas.html",
+    "sha256": "6f9cf67304b035d88ee1e61f95abc85f485d420d5b93563fdf16446c09ee333f",
+    "executedAt": "2026-11-05T18:22:36.928761+00:00",
+    "httpStatus": 200,
+    "errors": 0,
+    "warnings": 0,
+    "messages": []
+  },
+  {
+    "file": "galeria.html",
+    "sha256": "3954a433d6fc4a78da529710c47d32bb234521cffad15a40131b4b8b5cfc6242",
+    "executedAt": "2026-11-05T18:22:37.056467+00:00",
+    "httpStatus": 200,
+    "errors": 0,
+    "warnings": 0,
+    "messages": []
+  },
+  {
+    "file": "galeria.htm",
+    "sha256": "05d25d9b63ce5b4b87d17998107ded91ff65d647278fcaf2f4c36c648d7e1539",
+    "executedAt": "2026-11-05T18:22:37.263804+00:00",
+    "httpStatus": 200,
+    "errors": 0,
+    "warnings": 0,
+    "messages": []
+  },
+  {
+    "file": "docs/licencias_recursos.html",
+    "sha256": "77658cba6226c70d2c683f9f9898e959fca16b1cab2b374c34d03e448a56fe35",
+    "executedAt": "2026-11-05T18:22:37.553423+00:00",
+    "httpStatus": 200,
+    "errors": 0,
+    "warnings": 0,
+    "messages": []
+  },
+  {
+    "file": "docs/entrega-3-2.html",
+    "sha256": "b1b65710dce0cd946652666170de99b5202a19760ecd28524eb0b9b0486e937f",
+    "executedAt": "2026-11-05T18:22:37.702882+00:00",
+    "httpStatus": 200,
+    "errors": 0,
+    "warnings": 0,
+    "messages": []
+  }
+]

@@ -1,0 +1,84 @@
+The following is a diff from the previous accessibility tree for Window: "SpiderGym - Galería de máquinas" with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
+Removed element IDs: 320-335, 504-646
++													504 container
++														505 text Currently recording network activity Perform a request or reload the page by using the "Reload page" button or by pressing ⌘ R
++														506 link Learn more, Help: https://developer.chrome.com/docs/devtools/network/
++															507 text Learn more
++														508 button Reload page
++							509 text Network data available 
++				510 scroll area
++					511 HTML content SpiderGym - Galería de máquinas, URL: file:///Users/alexolmos/SpiderGym/galeria.html
++						512 link Saltar al contenido, Value: file:///Users/alexolmos/SpiderGym/galeria.html#contenido
++						513 container
++							514 heading Galería de máquinas SpiderGym, Value: 1
++								515 text Galería de máquinas SpiderGym
++							516 text Práctica 3.2 · Galería, multimedia y metadatos
++						517 container Navegación principal
++							518 link Inicio, Value: file:///Users/alexolmos/SpiderGym/index.html
++							519 link Máquinas, Value: file:///Users/alexolmos/SpiderGym/maquinas.html
++							520 link Galería, Value: file:///Users/alexolmos/SpiderGym/galeria.html
++						521 container
++							522 text Imágenes ilustrativas de los tres tipos de máquinas del catálogo. SpiderGym es un prototipo académico: no hay máquinas conectadas ni gimnasios reales asociados a estas fotos.
++							523 text Consulta los 
++							524 link créditos y condiciones de las imágenes, Value: file:///Users/alexolmos/SpiderGym/docs/licencias_recursos.html
++							525 text  y la 
++							526 link documentación de la práctica, Value: file:///Users/alexolmos/SpiderGym/docs/entrega-3-2.html
++							527 text .
++							528 heading Extensión de piernas, Value: 2
++								529 text Extensión de piernas
++							530 container
++								531 image Máquina de extensión de piernas con asiento, respaldo inclinado y rodillos acolchados frente a las piernas.
++								532 text Extensión de piernas. Fotografía: Aliva Sahoo · 
++								533 link Ficha original en Wikimedia Commons, Value: commons.wikimedia.org/wiki/File:Leg_Extension.jpg
++								534 text  · 
++								535 link CC BY-SA 4.0, Value: creativecommons.org/licenses/by-sa/4.0/
++								536 text . Versiones reducidas y recomprimidas; orientación EXIF aplicada, sin recortar ni estirar.
++							537 text El asiento y los rodillos permiten reconocer esta máquina del catálogo. La fotografía es ilustrativa; no corresponde al gimnasio ficticio de SpiderGym.
++							538 container
++								539 text Archivos disponibles: 
++								540 link 480 × 574 px (53,171 bytes), Value: file:///Users/alexolmos/SpiderGym/assets/images/extension-piernas-480w.jpg
++								541 text  · 
++								542 link 768 × 918 px (117,110 bytes), Value: file:///Users/alexolmos/SpiderGym/assets/images/extension-piernas-768w.jpg
++								543 text  · 
++								544 link 1920 × 2296 px (622,236 bytes), Value: file:///Users/alexolmos/SpiderGym/assets/images/extension-piernas-1920w.jpg
++								545 text .
++							546 heading Press de pecho, Value: 2
++								547 text Press de pecho
++							548 container
++								549 image Mujer sentada en una máquina de press de pecho, sujetando dos empuñaduras a la altura del tórax.
++								550 text Press de pecho. Fotografía: Tyler Read · 
++								551 link PTPioneer, Value: ptpioneer.com/
++								552 text  · 
++								553 link Ficha original en Wikimedia Commons, Value: commons.wikimedia.org/wiki/File:Girl_doing_chest_press_machine_exercise.jpg
++								554 text  · 
++								555 link CC BY 2.0, Value: creativecommons.org/licenses/by/2.0/
++								556 text . Versiones reducidas y recomprimidas; orientación EXIF aplicada, sin recortar ni estirar.
++							557 text Las empuñaduras laterales identifican el movimiento de empuje. Esta fotografía ilustra el tipo de máquina y no demuestra una conexión con SpiderGym.
++							558 container
++								559 text Archivos disponibles: 
++								560 link 480 × 320 px (23,380 bytes), Value: file:///Users/alexolmos/SpiderGym/assets/images/press-pecho-480w.jpg
++								561 text  · 
++								562 link 768 × 512 px (48,063 bytes), Value: file:///Users/alexolmos/SpiderGym/assets/images/press-pecho-768w.jpg
++								563 text  · 
++								564 link 1920 × 1280 px (214,803 bytes), Value: file:///Users/alexolmos/SpiderGym/assets/images/press-pecho-1920w.jpg
++								565 text .
++							566 heading Jalón al pecho, Value: 2
++								567 text Jalón al pecho
++							568 container
++								569 image Persona sentada en una máquina de jalón al pecho, con los brazos elevados hacia una barra unida a una polea superior.
++								570 text Jalón al pecho. Fotografía: SAgbley · 
++								571 link Ficha original en Wikimedia Commons, Value: commons.wikimedia.org/wiki/File:Lat_Pull_down_Machine.jpg
++								572 text  · 
++								573 link CC BY-SA 4.0, Value: creativecommons.org/licenses/by-sa/4.0/
++								574 text . Versiones reducidas y recomprimidas; orientación EXIF aplicada, sin recortar ni estirar.
++							575 text La barra y la polea superior distinguen el jalón. La foto procede de Wikimedia Commons y no de una instalación del proyecto.
++							576 container
++								577 text Archivos disponibles: 
++								578 link 480 × 853 px (113,688 bytes), Value: file:///Users/alexolmos/SpiderGym/assets/images/jalon-pecho-480w.jpg
++								579 text  · 
++								580 link 768 × 1365 px (243,020 bytes), Value: file:///Users/alexolmos/SpiderGym/assets/images/jalon-pecho-768w.jpg
++								581 text  · 
++								582 link 1920 × 3413 px (1,043,180 bytes), Value: file:///Users/alexolmos/SpiderGym/assets/images/jalon-pecho-1920w.jpg
++								583 text .
++						584 text SpiderGym · Proyecto ASIX · Fotografías con autoría y licencia indicadas en cada pie.
+The focused UI element is 484 stepper (settable, float) Width, Value: 375

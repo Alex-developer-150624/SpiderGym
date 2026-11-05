@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Documentación, créditos y pruebas de la práctica 3.2 de SpiderGym.">
+  <title>SpiderGym - Documentación de la práctica 3.2</title>
+</head>
+<body>
+<a href="#contenido">Saltar al contenido</a>
+<header><h1>SpiderGym · Práctica 3.2</h1><p>Galería, multimedia y metadatos · 5 de noviembre de 2026</p></header>
+<nav aria-label="Documentación"><a href="../galeria.html">Volver a la galería</a> · <a href="licencias_recursos.html">Créditos y licencias</a></nav>
+<main id="contenido" tabindex="-1">
+<h2>Resultado práctico</h2>
+<p>Galería de extensión de piernas, press de pecho y jalón al pecho integrada en el proyecto abierto en VS Code. Son fotos ilustrativas de máquinas; no se presentan como instalaciones conectadas a SpiderGym.</p>
+<p>Se conservan el catálogo, el tercer registro y el pie de tabla de la práctica 3.1. Las imágenes antiguas permanecen en la carpeta original, pero no se usan en las páginas actualizadas porque su licencia no estaba acreditada.</p>
+<h2>Imágenes adaptativas reales</h2>
+<p>Hay nueve JPEG: tres archivos distintos para cada fotografía, de 480, 768 y 1920 píxeles de ancho. Se generan a partir de originales suficientes, aplicando orientación EXIF y reducción proporcional con Lanczos. No se estiran ni se recortan originales.</p>
+<p>El primer source de picture se aplica desde 1200 píxeles de viewport y descarga 1920w; el segundo, desde 768, descarga 768w; el img de respaldo usa 480w. Se muestran vistas previas de 240 píxeles mediante atributos HTML, conservando la proporción y reservando espacio. No hay CSS ni scripts de interacción.</p>
+<p>Esta selección explícita facilita la prueba del enunciado. En producción convendría ajustar la descarga al tamaño de visualización y la densidad de pantalla mediante CSS, srcset y sizes.</p>
+<h2>Accesibilidad y significado</h2>
+<p>La estructura utiliza encabezados, regiones, navegación, enlaces, article, figure y figcaption. Cada imagen tiene un alt que describe su contenido. Los créditos y el contexto siguen disponibles si se bloquean las imágenes. El salto al contenido funciona con teclado y no depende de estilos.</p>
+<h2>Metadatos verificables</h2>
+<p>El JSON-LD embebido usa ImageGallery e ImageObject. Describe cada archivo con creador, licencia, fuente, ruta, formato, dimensiones, bytes y SHA-256. No se atribuye la autoría de las fotografías al alumno ni se inventan fecha de publicación, precios o alojamiento público.</p>
+<p>Las URL de contenido son rutas relativas reales. Se comprueban desde HTTP local; un despliegue público deberá resolverlas en su dominio real. Los metadatos no garantizan resultados enriquecidos de buscadores.</p>
+<h2>Procedencia y derechos</h2>
+<p>Se acreditan Aliva Sahoo, Tyler Read y SAgbley según sus fichas Commons. Los pies incluyen enlaces al origen y las licencias CC BY-SA 4.0 o CC BY 2.0. Se mantiene el enlace a PTPioneer solicitado por Tyler Read. Las versiones reducidas indican los cambios y conservan las condiciones correspondientes.</p>
+<p>La comprobación acredita lo declarado en las fichas consultadas. No constituye una investigación independiente de la titularidad ni una garantía sobre derechos de imagen de personas o marcas. No se asigna licencia abierta al resto del proyecto.</p>
+<h2>Documentación y evidencias</h2>
+<ul>
+  <li><a href="../recursos.json">Manifiesto completo de recursos</a>.</li>
+  <li><a href="../data-galeria.jsonld">Copia de JSON-LD</a>.</li>
+  <li><a href="galeria_decisiones.md">Decisiones y fuentes del manual y enunciado</a>.</li>
+  <li><a href="requisitos.md">Correspondencia con los requisitos</a>.</li>
+  <li><a href="validacion-3-2.md">Informe de validación y límites</a>.</li>
+  <li><a href="registro-cambios-3-2.md">Cambios y correcciones</a>.</li>
+  <li><a href="guion-video.md">Guion de apoyo para la defensa</a>.</li>
+</ul>
+<h2>Transferencia y uso de IA</h2>
+<p>Se incluyen ejemplos mínimos de <a href="transferencia-article.jsonld">Article</a> y <a href="transferencia-product.jsonld">Product</a>: el primero utiliza headline y el segundo name. No se inventa una oferta comercial. Son ejemplos separados; la galería final sigue siendo ImageGallery.</p>
+<p>Codex ha ayudado a preparar el código, las reducciones, documentación y pruebas. Las fotografías no se han generado por IA. Las capturas automatizadas se identifican como tales. La explicación personal, la comprensión del código y el vídeo de 10-12 minutos corresponden al alumno.</p>
+</main>
+<footer><p>Entrega técnica local. Los informes distinguen pruebas realizadas, resultados y límites.</p></footer>
+</body>
+</html>

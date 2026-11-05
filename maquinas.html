@@ -14,17 +14,19 @@
 
 
 <body>
+<a href="#contenido">Saltar al contenido</a>
 
     <header>
         <h1>Máquinas SpiderGym</h1>
     </header>
 
-    <nav>
-        <a href="index.html">Inicio</a>
-        <a href="maquinas.html">Máquinas</a>
-    </nav>
+    <nav aria-label="Navegación principal">
+    <a href="index.html">Inicio</a>
+    <a href="maquinas.html" aria-current="page">Máquinas</a>
+    <a href="galeria.html">Galería</a>
+</nav>
 
-    <main>
+    <main id="contenido" tabindex="-1">
 
         <h2>Catálogo de máquinas</h2>
 
@@ -107,7 +109,22 @@
             <td>Cuádriceps</td>
             <td>Zona B</td>
         </tr>
+        <tr> 
+            <td>Gimnasio Sur este</td>
+            <th scope="row">MAQ-DEMO-003</th>
+            <td>Press de pecho</td> 
+            <td>Pecho y tríceps</td>
+            <td>Zona C</td>
+        </tr>
     </tbody>
+
+<tfoot>
+    <tr>
+        <th scope="row" colspan="4">Total de máquinas</th>
+        <td>3</td>
+    </tr>
+</tfoot>
+
 </table>
 
     </main>

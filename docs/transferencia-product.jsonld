@@ -1,0 +1,7 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "Extensión de piernas en SpiderGym",
+  "description": "Ejemplo didáctico de transferencia de metadatos. Fotografía ilustrativa de una máquina; no hay una oferta comercial.",
+  "image": "../assets/images/extension-piernas-1920w.jpg"
+}

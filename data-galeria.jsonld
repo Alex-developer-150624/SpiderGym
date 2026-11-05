@@ -1,0 +1,313 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@id": "#galeria",
+      "@type": "ImageGallery",
+      "name": "Galería de máquinas SpiderGym",
+      "description": "Tres tipos de máquinas del prototipo SpiderGym, con fotografías acreditadas y tres resoluciones por imagen.",
+      "inLanguage": "es",
+      "image": [
+        {
+          "@id": "#extension-piernas-1920"
+        },
+        {
+          "@id": "#press-pecho-1920"
+        },
+        {
+          "@id": "#jalon-pecho-1920"
+        }
+      ],
+      "hasPart": [
+        {
+          "@id": "#extension-piernas-480"
+        },
+        {
+          "@id": "#extension-piernas-768"
+        },
+        {
+          "@id": "#extension-piernas-1920"
+        },
+        {
+          "@id": "#press-pecho-480"
+        },
+        {
+          "@id": "#press-pecho-768"
+        },
+        {
+          "@id": "#press-pecho-1920"
+        },
+        {
+          "@id": "#jalon-pecho-480"
+        },
+        {
+          "@id": "#jalon-pecho-768"
+        },
+        {
+          "@id": "#jalon-pecho-1920"
+        }
+      ]
+    },
+    {
+      "@id": "#extension-piernas-480",
+      "@type": "ImageObject",
+      "name": "Extensión de piernas",
+      "description": "Máquina de extensión de piernas con asiento, respaldo inclinado y rodillos acolchados frente a las piernas.",
+      "caption": "Extensión de piernas",
+      "contentUrl": "assets/images/extension-piernas-480w.jpg",
+      "encodingFormat": "image/jpeg",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 480,
+        "unitText": "px"
+      },
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 574,
+        "unitText": "px"
+      },
+      "contentSize": "53171 bytes",
+      "sha256": "006e126837d5c56312c0219757a13d5266401f9990d1f1ea9d892b119b92aa24",
+      "creator": {
+        "@type": "Person",
+        "name": "Aliva Sahoo"
+      },
+      "creditText": "Aliva Sahoo / Wikimedia Commons / CC BY-SA 4.0",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "isBasedOn": "https://commons.wikimedia.org/wiki/File:Leg_Extension.jpg",
+      "acquireLicensePage": "https://commons.wikimedia.org/wiki/File:Leg_Extension.jpg"
+    },
+    {
+      "@id": "#extension-piernas-768",
+      "@type": "ImageObject",
+      "name": "Extensión de piernas",
+      "description": "Máquina de extensión de piernas con asiento, respaldo inclinado y rodillos acolchados frente a las piernas.",
+      "caption": "Extensión de piernas",
+      "contentUrl": "assets/images/extension-piernas-768w.jpg",
+      "encodingFormat": "image/jpeg",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 768,
+        "unitText": "px"
+      },
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 918,
+        "unitText": "px"
+      },
+      "contentSize": "117110 bytes",
+      "sha256": "eb3cdf6199bcc0b8e2d47d907539286b31f5b04729145c29459ac6ea2abae21a",
+      "creator": {
+        "@type": "Person",
+        "name": "Aliva Sahoo"
+      },
+      "creditText": "Aliva Sahoo / Wikimedia Commons / CC BY-SA 4.0",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "isBasedOn": "https://commons.wikimedia.org/wiki/File:Leg_Extension.jpg",
+      "acquireLicensePage": "https://commons.wikimedia.org/wiki/File:Leg_Extension.jpg"
+    },
+    {
+      "@id": "#extension-piernas-1920",
+      "@type": "ImageObject",
+      "name": "Extensión de piernas",
+      "description": "Máquina de extensión de piernas con asiento, respaldo inclinado y rodillos acolchados frente a las piernas.",
+      "caption": "Extensión de piernas",
+      "contentUrl": "assets/images/extension-piernas-1920w.jpg",
+      "encodingFormat": "image/jpeg",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 1920,
+        "unitText": "px"
+      },
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 2296,
+        "unitText": "px"
+      },
+      "contentSize": "622236 bytes",
+      "sha256": "fbc52775669c6d08234bec4a88a4cbf2b001f308502be4b8e364a2c235b56838",
+      "creator": {
+        "@type": "Person",
+        "name": "Aliva Sahoo"
+      },
+      "creditText": "Aliva Sahoo / Wikimedia Commons / CC BY-SA 4.0",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "isBasedOn": "https://commons.wikimedia.org/wiki/File:Leg_Extension.jpg",
+      "acquireLicensePage": "https://commons.wikimedia.org/wiki/File:Leg_Extension.jpg"
+    },
+    {
+      "@id": "#press-pecho-480",
+      "@type": "ImageObject",
+      "name": "Press de pecho",
+      "description": "Mujer sentada en una máquina de press de pecho, sujetando dos empuñaduras a la altura del tórax.",
+      "caption": "Press de pecho",
+      "contentUrl": "assets/images/press-pecho-480w.jpg",
+      "encodingFormat": "image/jpeg",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 480,
+        "unitText": "px"
+      },
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 320,
+        "unitText": "px"
+      },
+      "contentSize": "23380 bytes",
+      "sha256": "99ea9b693ccaed82591039b80d9cd92a7ce5af58cc589acec174254283d3183f",
+      "creator": {
+        "@type": "Person",
+        "name": "Tyler  Read"
+      },
+      "creditText": "Tyler  Read / Wikimedia Commons / CC BY 2.0 / www.ptpioneer.com",
+      "license": "https://creativecommons.org/licenses/by/2.0/",
+      "isBasedOn": "https://commons.wikimedia.org/wiki/File:Girl_doing_chest_press_machine_exercise.jpg",
+      "acquireLicensePage": "https://commons.wikimedia.org/wiki/File:Girl_doing_chest_press_machine_exercise.jpg"
+    },
+    {
+      "@id": "#press-pecho-768",
+      "@type": "ImageObject",
+      "name": "Press de pecho",
+      "description": "Mujer sentada en una máquina de press de pecho, sujetando dos empuñaduras a la altura del tórax.",
+      "caption": "Press de pecho",
+      "contentUrl": "assets/images/press-pecho-768w.jpg",
+      "encodingFormat": "image/jpeg",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 768,
+        "unitText": "px"
+      },
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 512,
+        "unitText": "px"
+      },
+      "contentSize": "48063 bytes",
+      "sha256": "a555def2a554d3de9f04a50c1f5f31c1342a9798d0cf05bccc8410379d478070",
+      "creator": {
+        "@type": "Person",
+        "name": "Tyler  Read"
+      },
+      "creditText": "Tyler  Read / Wikimedia Commons / CC BY 2.0 / www.ptpioneer.com",
+      "license": "https://creativecommons.org/licenses/by/2.0/",
+      "isBasedOn": "https://commons.wikimedia.org/wiki/File:Girl_doing_chest_press_machine_exercise.jpg",
+      "acquireLicensePage": "https://commons.wikimedia.org/wiki/File:Girl_doing_chest_press_machine_exercise.jpg"
+    },
+    {
+      "@id": "#press-pecho-1920",
+      "@type": "ImageObject",
+      "name": "Press de pecho",
+      "description": "Mujer sentada en una máquina de press de pecho, sujetando dos empuñaduras a la altura del tórax.",
+      "caption": "Press de pecho",
+      "contentUrl": "assets/images/press-pecho-1920w.jpg",
+      "encodingFormat": "image/jpeg",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 1920,
+        "unitText": "px"
+      },
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 1280,
+        "unitText": "px"
+      },
+      "contentSize": "214803 bytes",
+      "sha256": "e90fbfd4a4c5559e7d83feb2039ee66a18f4a4e4c3d2bcd145ff397206eda67d",
+      "creator": {
+        "@type": "Person",
+        "name": "Tyler  Read"
+      },
+      "creditText": "Tyler  Read / Wikimedia Commons / CC BY 2.0 / www.ptpioneer.com",
+      "license": "https://creativecommons.org/licenses/by/2.0/",
+      "isBasedOn": "https://commons.wikimedia.org/wiki/File:Girl_doing_chest_press_machine_exercise.jpg",
+      "acquireLicensePage": "https://commons.wikimedia.org/wiki/File:Girl_doing_chest_press_machine_exercise.jpg"
+    },
+    {
+      "@id": "#jalon-pecho-480",
+      "@type": "ImageObject",
+      "name": "Jalón al pecho",
+      "description": "Persona sentada en una máquina de jalón al pecho, con los brazos elevados hacia una barra unida a una polea superior.",
+      "caption": "Jalón al pecho",
+      "contentUrl": "assets/images/jalon-pecho-480w.jpg",
+      "encodingFormat": "image/jpeg",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 480,
+        "unitText": "px"
+      },
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 853,
+        "unitText": "px"
+      },
+      "contentSize": "113688 bytes",
+      "sha256": "6aad79cc674e89cc260653c53a0d3ad05250eae2e85ca4485a37caba9b58a359",
+      "creator": {
+        "@type": "Person",
+        "name": "SAgbley"
+      },
+      "creditText": "SAgbley / Wikimedia Commons / CC BY-SA 4.0",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "isBasedOn": "https://commons.wikimedia.org/wiki/File:Lat_Pull_down_Machine.jpg",
+      "acquireLicensePage": "https://commons.wikimedia.org/wiki/File:Lat_Pull_down_Machine.jpg"
+    },
+    {
+      "@id": "#jalon-pecho-768",
+      "@type": "ImageObject",
+      "name": "Jalón al pecho",
+      "description": "Persona sentada en una máquina de jalón al pecho, con los brazos elevados hacia una barra unida a una polea superior.",
+      "caption": "Jalón al pecho",
+      "contentUrl": "assets/images/jalon-pecho-768w.jpg",
+      "encodingFormat": "image/jpeg",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 768,
+        "unitText": "px"
+      },
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 1365,
+        "unitText": "px"
+      },
+      "contentSize": "243020 bytes",
+      "sha256": "cfcd50b29a5b6e4297dd93dfa95885e07ede46389bb7dfb3f0565ef77e30aa3f",
+      "creator": {
+        "@type": "Person",
+        "name": "SAgbley"
+      },
+      "creditText": "SAgbley / Wikimedia Commons / CC BY-SA 4.0",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "isBasedOn": "https://commons.wikimedia.org/wiki/File:Lat_Pull_down_Machine.jpg",
+      "acquireLicensePage": "https://commons.wikimedia.org/wiki/File:Lat_Pull_down_Machine.jpg"
+    },
+    {
+      "@id": "#jalon-pecho-1920",
+      "@type": "ImageObject",
+      "name": "Jalón al pecho",
+      "description": "Persona sentada en una máquina de jalón al pecho, con los brazos elevados hacia una barra unida a una polea superior.",
+      "caption": "Jalón al pecho",
+      "contentUrl": "assets/images/jalon-pecho-1920w.jpg",
+      "encodingFormat": "image/jpeg",
+      "width": {
+        "@type": "QuantitativeValue",
+        "value": 1920,
+        "unitText": "px"
+      },
+      "height": {
+        "@type": "QuantitativeValue",
+        "value": 3413,
+        "unitText": "px"
+      },
+      "contentSize": "1043180 bytes",
+      "sha256": "62875b514db1d9de8975527e6374764e321568d00d000593c4a29a7878ab52e1",
+      "creator": {
+        "@type": "Person",
+        "name": "SAgbley"
+      },
+      "creditText": "SAgbley / Wikimedia Commons / CC BY-SA 4.0",
+      "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "isBasedOn": "https://commons.wikimedia.org/wiki/File:Lat_Pull_down_Machine.jpg",
+      "acquireLicensePage": "https://commons.wikimedia.org/wiki/File:Lat_Pull_down_Machine.jpg"
+    }
+  ]
+}

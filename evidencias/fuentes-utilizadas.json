@@ -1,0 +1,35 @@
+{
+  "checkedAt": "2026-11-05T18:29:13.557908+00:00",
+  "manual": {
+    "filename": "manual_lmsgi_kdp_libro_completo_prototipo (1).pdf",
+    "sha256": "7755995f7200bb023854eb246f546f669a33f6c223972c15e493f4358d75934a",
+    "pdfPages": [
+      42,
+      43,
+      44
+    ],
+    "printedFooters": [
+      43,
+      44,
+      45
+    ]
+  },
+  "assignment": {
+    "filename": "Prácticas con guiones de vídeos .html",
+    "sha256": "914ac1a1a542a53b1f88abf445e409939f07517898b9470c17f4806b0e4aa31c",
+    "section": "tema3-2"
+  },
+  "repository": {
+    "url": "https://github.com/Alex-developer-150624/SpiderGym",
+    "consultedTree": "17cdbad06181e874dff4889fe5e19cc353208cbb",
+    "mainGalleryLookup": "404; galeria.html no estaba en main",
+    "permissionsObserved": "pull true, push false"
+  },
+  "workingCopy": "/Users/alexolmos/SpiderGym",
+  "priorLocalChangesPreserved": [
+    "maquinas.html: tercera fila y tfoot",
+    "img/extension-piernas.png y extension-piernas480.png conservadas",
+    "evidencias de usuario conservadas",
+    "eliminaciones previas no revertidas"
+  ]
+}

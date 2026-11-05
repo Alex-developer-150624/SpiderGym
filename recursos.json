@@ -1,0 +1,445 @@
+[
+  {
+    "id": "extension-piernas",
+    "title": "File:Leg Extension.jpg",
+    "api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&titles=File%3ALeg+Extension.jpg&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata%7Csha1%7Ctimestamp&rvprop=ids%7Ctimestamp",
+    "metadata": {
+      "timestamp": "2025-12-15T07:57:16Z",
+      "size": 7347418,
+      "width": 3072,
+      "height": 3674,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/5/59/Leg_Extension.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Leg_Extension.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=179972407",
+      "sha1": "ed56486f5bb24286536da537ec06139275e54937",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2025-12-15 07:57:16",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Leg Extension",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Self-published work|Images from Wiki Science Competition 2025 in India|Mobile Photography Entries for the Wiki Science Competition in India 2025|Uploaded via Campaign:wsc-in-m|Scientific Equipment images from Wiki Science Competition 2025 in India|Images by User:Aliva Sahoo for WSC 2025, India|WSC-In 2025 INT - General category images",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "This image illustrates a leg extension exercise, demonstrating knee joint biomechanics and quadriceps muscle activation, useful for understanding human anatomy, strength training, and rehabilitation science.",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2025-12-15 10:22:36",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:Aliva_Sahoo\" title=\"User:Aliva Sahoo\">Aliva Sahoo</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    "revision": {
+      "revid": 1140742692,
+      "parentid": 1132431132,
+      "timestamp": "2026-01-02T21:07:39Z"
+    },
+    "originalPath": "assets/originales/extension-piernas.jpg",
+    "sha256": "9ce1aee63b4d20cc43b2003c1e9858ae2b4f82fd1b86193cd58df766094bd191",
+    "retrievedAt": "2026-11-05T18:13:12.531523+00:00",
+    "httpStatus": 200,
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/5/59/Leg_Extension.jpg",
+    "name": "Extensión de piernas",
+    "alt": "Máquina de extensión de piernas con asiento, respaldo inclinado y rodillos acolchados frente a las piernas.",
+    "description": "El asiento y los rodillos permiten reconocer esta máquina del catálogo. La fotografía es ilustrativa; no corresponde al gimnasio ficticio de SpiderGym.",
+    "creator": "Aliva Sahoo",
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "licenseName": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Leg_Extension.jpg",
+    "orientedWidth": 3072,
+    "orientedHeight": 3674,
+    "rawDimensions": [
+      3072,
+      3674
+    ],
+    "variants": [
+      {
+        "path": "assets/images/extension-piernas-480w.jpg",
+        "width": 480,
+        "height": 574,
+        "bytes": 53171,
+        "sha256": "006e126837d5c56312c0219757a13d5266401f9990d1f1ea9d892b119b92aa24",
+        "mime": "image/jpeg"
+      },
+      {
+        "path": "assets/images/extension-piernas-768w.jpg",
+        "width": 768,
+        "height": 918,
+        "bytes": 117110,
+        "sha256": "eb3cdf6199bcc0b8e2d47d907539286b31f5b04729145c29459ac6ea2abae21a",
+        "mime": "image/jpeg"
+      },
+      {
+        "path": "assets/images/extension-piernas-1920w.jpg",
+        "width": 1920,
+        "height": 2296,
+        "bytes": 622236,
+        "sha256": "fbc52775669c6d08234bec4a88a4cbf2b001f308502be4b8e364a2c235b56838",
+        "mime": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "id": "press-pecho",
+    "title": "File:Girl doing chest press machine exercise.jpg",
+    "api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&titles=File%3AGirl+doing+chest+press+machine+exercise.jpg&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata%7Csha1%7Ctimestamp&rvprop=ids%7Ctimestamp",
+    "metadata": {
+      "timestamp": "2023-12-01T00:39:22Z",
+      "size": 8696354,
+      "width": 6000,
+      "height": 4000,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Girl_doing_chest_press_machine_exercise.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Girl_doing_chest_press_machine_exercise.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=141589584",
+      "sha1": "fe41348903465eee7f3b9b96087efc5e799d3055",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2023-12-01 00:39:22",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Girl doing chest press machine exercise",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Women exercising|Young women wearing crop tops|Files with coordinates missing SDC location of creation|Flickr images reviewed by FlickreviewR 2|Young women in 2023|Women wearing black leggings|Seated chest press|People doing strength exercises using fitness equipment",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "33.999506",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "-118.483901",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "Must attribute with link to: www.ptpioneer.com\nGirl doing chest press machine exercise",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2019-08-22 22:45:14",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/ptpioneer/48833754218/\">https://www.flickr.com/photos/ptpioneer/48833754218/</a>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "Tyler  Read",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY 2.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution 2.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by/2.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-2.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    "revision": {
+      "revid": 1273723422,
+      "parentid": 1176307857,
+      "timestamp": "2026-09-07T23:01:33Z"
+    },
+    "originalPath": "assets/originales/press-pecho.jpg",
+    "sha256": "420573777264a41834010bf38b9dec25f9074093ac1a205ecb3178c5ae367a29",
+    "retrievedAt": "2026-11-05T18:13:12.540229+00:00",
+    "httpStatus": 200,
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Girl_doing_chest_press_machine_exercise.jpg",
+    "name": "Press de pecho",
+    "alt": "Mujer sentada en una máquina de press de pecho, sujetando dos empuñaduras a la altura del tórax.",
+    "description": "Las empuñaduras laterales identifican el movimiento de empuje. Esta fotografía ilustra el tipo de máquina y no demuestra una conexión con SpiderGym.",
+    "creator": "Tyler  Read",
+    "license": "https://creativecommons.org/licenses/by/2.0/",
+    "licenseName": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Girl_doing_chest_press_machine_exercise.jpg",
+    "orientedWidth": 6000,
+    "orientedHeight": 4000,
+    "rawDimensions": [
+      6000,
+      4000
+    ],
+    "variants": [
+      {
+        "path": "assets/images/press-pecho-480w.jpg",
+        "width": 480,
+        "height": 320,
+        "bytes": 23380,
+        "sha256": "99ea9b693ccaed82591039b80d9cd92a7ce5af58cc589acec174254283d3183f",
+        "mime": "image/jpeg"
+      },
+      {
+        "path": "assets/images/press-pecho-768w.jpg",
+        "width": 768,
+        "height": 512,
+        "bytes": 48063,
+        "sha256": "a555def2a554d3de9f04a50c1f5f31c1342a9798d0cf05bccc8410379d478070",
+        "mime": "image/jpeg"
+      },
+      {
+        "path": "assets/images/press-pecho-1920w.jpg",
+        "width": 1920,
+        "height": 1280,
+        "bytes": 214803,
+        "sha256": "e90fbfd4a4c5559e7d83feb2039ee66a18f4a4e4c3d2bcd145ff397206eda67d",
+        "mime": "image/jpeg"
+      }
+    ]
+  },
+  {
+    "id": "jalon-pecho",
+    "title": "File:Lat Pull down Machine.jpg",
+    "api": "https://commons.wikimedia.org/w/api.php?action=query&format=json&titles=File%3ALat+Pull+down+Machine.jpg&prop=imageinfo%7Crevisions&iiprop=url%7Csize%7Cextmetadata%7Csha1%7Ctimestamp&rvprop=ids%7Ctimestamp",
+    "metadata": {
+      "timestamp": "2021-04-30T05:13:10Z",
+      "size": 1954635,
+      "width": 2160,
+      "height": 3840,
+      "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Lat_Pull_down_Machine.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "descriptionurl": "https://commons.wikimedia.org/wiki/File:Lat_Pull_down_Machine.jpg",
+      "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=104645949",
+      "sha1": "54c7212bf7e385f51c531a4276c9882af95a1383",
+      "extmetadata": {
+        "DateTime": {
+          "value": "2021-04-30 05:13:10",
+          "source": "mediawiki-metadata",
+          "hidden": ""
+        },
+        "ObjectName": {
+          "value": "Lat Pull down Machine",
+          "source": "mediawiki-metadata"
+        },
+        "CommonsMetadataExtension": {
+          "value": 1.2,
+          "source": "extension",
+          "hidden": ""
+        },
+        "Categories": {
+          "value": "Sports in Ghana|Images from Wiki Loves Africa 2021|Self-published work|Images from Wiki Loves Africa 2021 to check|Files with coordinates missing SDC location of creation|Images from Wiki Loves Africa 2021 in Ghana|Pulldown machines",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "Assessments": {
+          "value": "",
+          "source": "commons-categories",
+          "hidden": ""
+        },
+        "GPSLatitude": {
+          "value": "5.586956",
+          "source": "commons-desc-page"
+        },
+        "GPSLongitude": {
+          "value": "-0.287706",
+          "source": "commons-desc-page"
+        },
+        "GPSMapDatum": {
+          "value": "WGS-84",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "ImageDescription": {
+          "value": "used in strengthening the muscles",
+          "source": "commons-desc-page"
+        },
+        "DateTimeOriginal": {
+          "value": "2021-04-30",
+          "source": "commons-desc-page"
+        },
+        "Credit": {
+          "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+          "source": "commons-desc-page"
+        },
+        "Artist": {
+          "value": "<a href=\"//commons.wikimedia.org/wiki/User:SAgbley\" title=\"User:SAgbley\">SAgbley</a>",
+          "source": "commons-desc-page"
+        },
+        "LicenseShortName": {
+          "value": "CC BY-SA 4.0",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "UsageTerms": {
+          "value": "Creative Commons Attribution-Share Alike 4.0",
+          "source": "commons-desc-page"
+        },
+        "AttributionRequired": {
+          "value": "true",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "LicenseUrl": {
+          "value": "https://creativecommons.org/licenses/by-sa/4.0",
+          "source": "commons-desc-page"
+        },
+        "Copyrighted": {
+          "value": "True",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "Restrictions": {
+          "value": "",
+          "source": "commons-desc-page",
+          "hidden": ""
+        },
+        "License": {
+          "value": "cc-by-sa-4.0",
+          "source": "commons-templates",
+          "hidden": ""
+        }
+      }
+    },
+    "revision": {
+      "revid": 1208716013,
+      "parentid": 710445070,
+      "timestamp": "2026-05-05T05:34:40Z"
+    },
+    "originalPath": "assets/originales/jalon-pecho.jpg",
+    "sha256": "be08e4857724620130fbccfa4615e29c89f2b8a92118572a1adb951709878d33",
+    "retrievedAt": "2026-11-05T18:13:12.977211+00:00",
+    "httpStatus": 200,
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Lat_Pull_down_Machine.jpg",
+    "name": "Jalón al pecho",
+    "alt": "Persona sentada en una máquina de jalón al pecho, con los brazos elevados hacia una barra unida a una polea superior.",
+    "description": "La barra y la polea superior distinguen el jalón. La foto procede de Wikimedia Commons y no de una instalación del proyecto.",
+    "creator": "SAgbley",
+    "license": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "licenseName": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Lat_Pull_down_Machine.jpg",
+    "orientedWidth": 2160,
+    "orientedHeight": 3840,
+    "rawDimensions": [
+      3840,
+      2160
+    ],
+    "variants": [
+      {
+        "path": "assets/images/jalon-pecho-480w.jpg",
+        "width": 480,
+        "height": 853,
+        "bytes": 113688,
+        "sha256": "6aad79cc674e89cc260653c53a0d3ad05250eae2e85ca4485a37caba9b58a359",
+        "mime": "image/jpeg"
+      },
+      {
+        "path": "assets/images/jalon-pecho-768w.jpg",
+        "width": 768,
+        "height": 1365,
+        "bytes": 243020,
+        "sha256": "cfcd50b29a5b6e4297dd93dfa95885e07ede46389bb7dfb3f0565ef77e30aa3f",
+        "mime": "image/jpeg"
+      },
+      {
+        "path": "assets/images/jalon-pecho-1920w.jpg",
+        "width": 1920,
+        "height": 3413,
+        "bytes": 1043180,
+        "sha256": "62875b514db1d9de8975527e6374764e321568d00d000593c4a29a7878ab52e1",
+        "mime": "image/jpeg"
+      }
+    ]
+  }
+]

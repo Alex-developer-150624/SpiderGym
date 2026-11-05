@@ -1,0 +1,1514 @@
+- link "Schema.org":
+  - /url: https://schema.org/
+- list:
+  - link "Documentation":
+    - /url: https://schema.org/docs/documents.html
+  - link "Schemas":
+    - /url: https://schema.org/docs/schemas.html
+  - link "Validate":
+    - /url: /
+  - link "About":
+    - /url: https://schema.org/docs/about.html
+- textbox "search"
+- generic: public
+- button "Ejecutar nueva prueba"
+- button "language_japanese_kana":
+  - generic: language_japanese_kana
+- button "info":
+  - generic: info
+- textbox
+- generic: "1"
+- text: "<script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@id\":\"#galeria\",\"@type\":\"ImageGallery\",\"name\":\"Galería de máquinas SpiderGym\",\"description\":\"Tres tipos de máquinas del prototipo SpiderGym, con fotografías acreditadas y tres resoluciones por imagen.\",\"inLanguage\":\"es\",\"image\":[{\"@id\":\"#extension-piernas-1920\"},{\"@id\":\"#press-pecho-1920\"},{\"@id\":\"#jalon-pecho-1920\"}],\"hasPart\":[{\"@id\":\"#extension-piernas-480\"},{\"@id\":\"#extension-piernas-768\"},{\"@id\":\"#extension-piernas-1920\"},{\"@id\":\"#press-pecho-480\"},{\"@id\":\"#press-pecho-768\"},{\"@id\":\"#press-pecho-1920\"},{\"@id\":\"#jalon-pecho-480\"},{\"@id\":\"#jalon-pecho-768\"},{\"@id\":\"#jalon-pecho-1920\"}]},{\"@id\":\"#extension-piernas-480\",\"@type\":\"ImageObject\",\"name\":\"Extensión de piernas\",\"description\":\"Máquina de extensión de piernas con asiento, respaldo inclinado y rodillos acolchados frente a las piernas.\",\"caption\":\"Extensión de piernas\",\"contentUrl\":\"assets/images/extension-piernas-480w.jpg\",\"encodingFormat\":\"image/jpeg\",\"width\":{\"@type\":\"QuantitativeValue\",\"value\":480,\"unitText\":\"px\"},\"height\":{\"@type\":\"QuantitativeValue\",\"value\":574,\"unitText\":\"px\"},\"contentSize\":\"53171 bytes\",\"sha256\":\"006e126837d5c56312c0219757a13d5266401f9990d1f1ea9d892b119b92aa24\",\"creator\":{\"@type\":\"Person\",\"name\":\"Aliva Sahoo\"},\"creditText\":\"Aliva Sahoo / Wikimedia Commons / CC BY-SA 4.0\",\"license\":\"https://creativecommons.org/licenses/by-sa/4.0/\",\"isBasedOn\":\"https://commons.wikimedia.org/wiki/File:Leg_Extension.jpg\",\"acquireLicensePage\":\"https://commons.wikimedia.org/wiki/File:Leg_Extension.jpg\"},{\"@id\":\"#extension-piernas-768\",\"@type\":\"ImageObject\",\"name\":\"Extensión de piernas\",\"description\":\"Máquina de extensión de piernas con asiento, respaldo inclinado y rodillos acolchados frente a las piernas.\",\"caption\":\"Extensión de piernas\",\"contentUrl\":\"assets/images/extension-piernas-768w.jpg\",\"encodingFormat\":\"image/jpeg\",\"width\":{\"@type\":\"QuantitativeValue\",\"value\":768,\"unitText\":\"px\"},\"height\":{\"@type\":\"QuantitativeValue\",\"value\":918,\"unitText\":\"px\"},\"contentSize\":\"117110 bytes\",\"sha256\":\"eb3cdf6199bcc0b8e2d47d907539286b31f5b04729145c29459ac6ea2abae21a\",\"creator\":{\"@type\":\"Person\",\"name\":\"Aliva Sahoo\"},\"creditText\":\"Aliva Sahoo / Wikimedia Commons / CC BY-SA 4.0\",\"license\":\"https://creativecommons.org/licenses/by-sa/4.0/\",\"isBasedOn\":\"https://commons.wikimedia.org/wiki/File:Leg_Extension.jpg\",\"acquireLicensePage\":\"https://commons.wikimedia.org/wiki/File:Leg_Extension.jpg\"},{\"@id\":\"#extension-piernas-1920\",\"@type\":\"ImageObject\",\"name\":\"Extensión de piernas\",\"description\":\"Máquina de extensión de piernas con asiento, respaldo inclinado y rodillos acolchados frente a las piernas.\",\"caption\":\"Extensión de piernas\",\"contentUrl\":\"assets/images/extension-piernas-1920w.jpg\",\"encodingFormat\":\"image/jpeg\",\"width\":{\"@type\":\"QuantitativeValue\",\"value\":1920,\"unitText\":\"px\"},\"height\":{\"@type\":\"QuantitativeValue\",\"value\":2296,\"unitText\":\"px\"},\"contentSize\":\"622236 bytes\",\"sha256\":\"fbc52775669c6d08234bec4a88a4cbf2b001f308502be4b8e364a2c235b56838\",\"creator\":{\"@type\":\"Person\",\"name\":\"Aliva Sahoo\"},\"creditText\":\"Aliva Sahoo / Wikimedia Commons / CC BY-SA 4.0\",\"license\":\"https://creativecommons.org/licenses/by-sa/4.0/\",\"isBasedOn\":\"https://commons.wikimedia.org/wiki/File:Leg_Extension.jpg\",\"acquireLicensePage\":\"https://commons.wikimedia.org/wiki/File:Leg_Extension.jpg\"},{\"@id\":\"#press-pecho-480\",\"@type\":\"ImageObject\",\"name\":\"Press de pecho\",\"description\":\"Mujer sentada en una máquina de press de pecho, sujetando dos empuñaduras a la altura del tórax.\",\"caption\":\"Press de pecho\",\"contentUrl\":\"assets/images/press-pecho-480w.jpg\",\"encodingFormat\":\"image/jpeg\",\"width\":{\"@type\":\"QuantitativeValue\",\"value\":480,\"unitText\":\"px\"},\"height\":{\"@type\":\"QuantitativeValue\",\"value\":320,\"unitText\":\"px\"},\"contentSize\":\"23380 bytes\",\"sha256\":\"99ea9b693ccaed82591039b80d9cd92a7ce5af58cc589acec174254283d3183f\",\"creator\":{\"@type\":\"Person\",\"name\":\"Tyler Read\"},\"creditText\":\"Tyler Read / Wikimedia Commons / CC BY 2.0 / www.ptpioneer.com\",\"license\":\"https://creativecommons.org/licenses/by/2.0/\",\"isBasedOn\":\"https://commons.wikimedia.org/wiki/File:Girl_doing_chest_press_machine_exercise.jpg\",\"acquireLicensePage\":\"https://commons.wikimedia.org/wiki/File:Girl_doing_chest_press_machine_exercise.jpg\"},{\"@id\":\"#press-pecho-768\",\"@type\":\"ImageObject\",\"name\":\"Press de pecho\",\"description\":\"Mujer sentada en una máquina de press de pecho, sujetando dos empuñaduras a la altura del tórax.\",\"caption\":\"Press de pecho\",\"contentUrl\":\"assets/images/press-pecho-768w.jpg\",\"encodingFormat\":\"image/jpeg\",\"width\":{\"@type\":\"QuantitativeValue\",\"value\":768,\"unitText\":\"px\"},\"height\":{\"@type\":\"QuantitativeValue\",\"value\":512,\"unitText\":\"px\"},\"contentSize\":\"48063 bytes\",\"sha256\":\"a555def2a554d3de9f04a50c1f5f31c1342a9798d0cf05bccc8410379d478070\",\"creator\":{\"@type\":\"Person\",\"name\":\"Tyler Read\"},\"creditText\":\"Tyler Read / Wikimedia Commons / CC BY 2.0 / www.ptpioneer.com\",\"license\":\"https://creativecommons.org/licenses/by/2.0/\",\"isBasedOn\":\"https://commons.wikimedia.org/wiki/File:Girl_doing_chest_press_machine_exercise.jpg\",\"acquireLicensePage\":\"https://commons.wikimedia.org/wiki/File:Girl_doing_chest_press_machine_exercise.jpg\"},{\"@id\":\"#press-pecho-1920\",\"@type\":\"ImageObject\",\"name\":\"Press de pecho\",\"description\":\"Mujer sentada en una máquina de press de pecho, sujetando dos empuñaduras a la altura del tórax.\",\"caption\":\"Press de pecho\",\"contentUrl\":\"assets/images/press-pecho-1920w.jpg\",\"encodingFormat\":\"image/jpeg\",\"width\":{\"@type\":\"QuantitativeValue\",\"value\":1920,\"unitText\":\"px\"},\"height\":{\"@type\":\"QuantitativeValue\",\"value\":1280,\"unitText\":\"px\"},\"contentSize\":\"214803 bytes\",\"sha256\":\"e90fbfd4a4c5559e7d83feb2039ee66a18f4a4e4c3d2bcd145ff397206eda67d\",\"creator\":{\"@type\":\"Person\",\"name\":\"Tyler Read\"},\"creditText\":\"Tyler Read / Wikimedia Commons / CC BY 2.0 / www.ptpioneer.com\",\"license\":\"https://creativecommons.org/licenses/by/2.0/\",\"isBasedOn\":\"https://commons.wikimedia.org/wiki/File:Girl_doing_chest_press_machine_exercise.jpg\",\"acquireLicensePage\":\"https://commons.wikimedia.org/wiki/File:Girl_doing_chest_press_machine_exercise.jpg\"},{\"@id\":\"#jalon-pecho-480\",\"@type\":\"ImageObject\",\"name\":\"Jalón al pecho\",\"description\":\"Persona sentada en una máquina de jalón al pecho, con los brazos elevados hacia una barra unida a una polea superior.\",\"caption\":\"Jalón al pecho\",\"contentUrl\":\"assets/images/jalon-pecho-480w.jpg\",\"encodingFormat\":\"image/jpeg\",\"width\":{\"@type\":\"QuantitativeValue\",\"value\":480,\"unitText\":\"px\"},\"height\":{\"@type\":\"QuantitativeValue\",\"value\":853,\"unitText\":\"px\"},\"contentSize\":\"113688 bytes\",\"sha256\":\"6aad79cc674e89cc260653c53a0d3ad05250eae2e85ca4485a37caba9b58a359\",\"creator\":{\"@type\":\"Person\",\"name\":\"SAgbley\"},\"creditText\":\"SAgbley / Wikimedia Commons / CC BY-SA 4.0\",\"license\":\"https://creativecommons.org/licenses/by-sa/4.0/\",\"isBasedOn\":\"https://commons.wikimedia.org/wiki/File:Lat_Pull_down_Machine.jpg\",\"acquireLicensePage\":\"https://commons.wikimedia.org/wiki/File:Lat_Pull_down_Machine.jpg\"},{\"@id\":\"#jalon-pecho-768\",\"@type\":\"ImageObject\",\"name\":\"Jalón al pecho\",\"description\":\"Persona sentada en una máquina de jalón al pecho, con los brazos elevados hacia una barra unida a una polea superior.\",\"caption\":\"Jalón al pecho\",\"contentUrl\":\"assets/images/jalon-pecho-768w.jpg\",\"encodingFormat\":\"image/jpeg\",\"width\":{\"@type\":\"QuantitativeValue\",\"value\":768,\"unitText\":\"px\"},\"height\":{\"@type\":\"QuantitativeValue\",\"value\":1365,\"unitText\":\"px\"},\"contentSize\":\"243020 bytes\",\"sha256\":\"cfcd50b29a5b6e4297dd93dfa95885e07ede46389bb7dfb3f0565ef77e30aa3f\",\"creator\":{\"@type\":\"Person\",\"name\":\"SAgbley\"},\"creditText\":\"SAgbley / Wikimedia Commons / CC BY-SA 4.0\",\"license\":\"https://creativecommons.org/licenses/by-sa/4.0/\",\"isBasedOn\":\"https://commons.wikimedia.org/wiki/File:Lat_Pull_down_Machine.jpg\",\"acquireLicensePage\":\"https://commons.wikimedia.org/wiki/File:Lat_Pull_down_Machine.jpg\"},{\"@id\":\"#jalon-pecho-1920\",\"@type\":\"ImageObject\",\"name\":\"Jalón al pecho\",\"description\":\"Persona sentada en una máquina de jalón al pecho, con los brazos elevados hacia una barra unida a una polea superior.\",\"caption\":\"Jalón al pecho\",\"contentUrl\":\"assets/images/jalon-pecho-1920w.jpg\",\"encodingFormat\":\"image/jpeg\",\"width\":{\"@type\":\"QuantitativeValue\",\"value\":1920,\"unitText\":\"px\"},\"height\":{\"@type\":\"QuantitativeValue\",\"value\":3413,\"unitText\":\"px\"},\"contentSize\":\"1043180 bytes\",\"sha256\":\"62875b514db1d9de8975527e6374764e321568d00d000593c4a29a7878ab52e1\",\"creator\":{\"@type\":\"Person\",\"name\":\"SAgbley\"},\"creditText\":\"SAgbley / Wikimedia Commons / CC BY-SA 4.0\",\"license\":\"https://creativecommons.org/licenses/by-sa/4.0/\",\"isBasedOn\":\"https://commons.wikimedia.org/wiki/File:Lat_Pull_down_Machine.jpg\",\"acquireLicensePage\":\"https://commons.wikimedia.org/wiki/File:Lat_Pull_down_Machine.jpg\"}]}</script>"
+- generic: ImageGallery
+- button "All (1) arrow_drop_down":
+  - text: All (1)
+  - generic: arrow_drop_down
+- list:
+  - text: ImageGallery
+  - generic: "ID: https://example-test.site/#galeria"
+  - generic: 0 ERRORES
+  - generic: 0 ADVERTENCIAS
+  - generic: expand_less
+  - table:
+    - rowgroup:
+      - row "@type ImageGallery":
+        - cell "@type":
+          - generic: "@type"
+        - cell "ImageGallery":
+          - generic: ImageGallery
+      - row "@id https://example-test.site/#galeria":
+        - cell "@id":
+          - generic: "@id"
+        - cell "https://example-test.site/#galeria":
+          - generic: https://example-test.site/#galeria
+      - row "name Galería de máquinas SpiderGym":
+        - cell "name":
+          - generic: name
+        - cell "Galería de máquinas SpiderGym":
+          - generic: Galería de máquinas SpiderGym
+      - row "description Tres tipos de máquinas del prototipo SpiderGym, con fotografías acreditadas y tres resoluciones por imagen.":
+        - cell "description":
+          - generic: description
+        - cell "Tres tipos de máquinas del prototipo SpiderGym, con fotografías acreditadas y tres resoluciones por imagen.":
+          - generic: Tres tipos de máquinas del prototipo SpiderGym, con fotografías acreditadas y tres resoluciones por imagen.
+      - row "inLanguage es":
+        - cell "inLanguage":
+          - generic: inLanguage
+        - cell "es":
+          - generic: es
+      - row "image":
+        - cell "image":
+          - generic: image
+        - cell
+      - row "@type ImageObject":
+        - cell "@type":
+          - generic: "@type"
+        - cell "ImageObject":
+          - generic: ImageObject
+      - row "@id https://example-test.site/#extension-piernas-1920":
+        - cell "@id":
+          - generic: "@id"
+        - cell "https://example-test.site/#extension-piernas-1920":
+          - generic: https://example-test.site/#extension-piernas-1920
+      - row "name Extensión de piernas":
+        - cell "name":
+          - generic: name
+        - cell "Extensión de piernas":
+          - generic: Extensión de piernas
+      - row "description Máquina de extensión de piernas con asiento, respaldo inclinado y rodillos acolchados frente a las piernas.":
+        - cell "description":
+          - generic: description
+        - cell "Máquina de extensión de piernas con asiento, respaldo inclinado y rodillos acolchados frente a las piernas.":
+          - generic: Máquina de extensión de piernas con asiento, respaldo inclinado y rodillos acolchados frente a las piernas.
+      - row "caption Extensión de piernas":
+        - cell "caption":
+          - generic: caption
+        - cell "Extensión de piernas":
+          - generic: Extensión de piernas
+      - row "contentUrl https://example-test.site/assets/images/extension-piernas-1920w.jpg":
+        - cell "contentUrl":
+          - generic: contentUrl
+        - cell "https://example-test.site/assets/images/extension-piernas-1920w.jpg":
+          - generic: https://example-test.site/assets/images/extension-piernas-1920w.jpg
+      - row "encodingFormat image/jpeg":
+        - cell "encodingFormat":
+          - generic: encodingFormat
+        - cell "image/jpeg":
+          - generic: image/jpeg
+      - row "contentSize 622236 bytes":
+        - cell "contentSize":
+          - generic: contentSize
+        - cell "622236 bytes":
+          - generic: 622236 bytes
+      - row "sha256 fbc52775669c6d08234bec4a88a4cbf2b001f308502be4b8e364a2c235b56838":
+        - cell "sha256":
+          - generic: sha256
+        - cell "fbc52775669c6d08234bec4a88a4cbf2b001f308502be4b8e364a2c235b56838":
+          - generic: fbc52775669c6d08234bec4a88a4cbf2b001f308502be4b8e364a2c235b56838
+      - row "creditText Aliva Sahoo / Wikimedia Commons / CC BY-SA 4.0":
+        - cell "creditText":
+          - generic: creditText
+        - cell "Aliva Sahoo / Wikimedia Commons / CC BY-SA 4.0":
+          - generic: Aliva Sahoo / Wikimedia Commons / CC BY-SA 4.0
+      - row "license https://creativecommons.org/licenses/by-sa/4.0/":
+        - cell "license":
+          - generic: license
+        - cell "https://creativecommons.org/licenses/by-sa/4.0/":
+          - generic: https://creativecommons.org/licenses/by-sa/4.0/
+      - row "isBasedOn https://commons.wikimedia.org/wiki/File:Leg_Extension.jpg":
+        - cell "isBasedOn":
+          - generic: isBasedOn
+        - cell "https://commons.wikimedia.org/wiki/File:Leg_Extension.jpg":
+          - generic: https://commons.wikimedia.org/wiki/File:Leg_Extension.jpg
+      - row "acquireLicensePage https://commons.wikimedia.org/wiki/File:Leg_Extension.jpg":
+        - cell "acquireLicensePage":
+          - generic: acquireLicensePage
+        - cell "https://commons.wikimedia.org/wiki/File:Leg_Extension.jpg":
+          - generic: https://commons.wikimedia.org/wiki/File:Leg_Extension.jpg
+      - row "width":
+        - cell "width":
+          - generic: width
+        - cell
+      - row "@type QuantitativeValue":
+        - cell "@type":
+          - generic: "@type"
+        - cell "QuantitativeValue":
+          - generic: QuantitativeValue
+      - row "value 1920":
+        - cell "value":
+          - generic: value
+        - cell "1920":
+          - generic: "1920"
+      - row "unitText px":
+        - cell "unitText":
+          - generic: unitText
+        - cell "px":
+          - generic: px
+      - row "height":
+        - cell "height":
+          - generic: height
+        - cell
+      - row "@type QuantitativeValue":
+        - cell "@type":
+          - generic: "@type"
+        - cell "QuantitativeValue":
+          - generic: QuantitativeValue
+      - row "value 2296":
+        - cell "value":
+          - generic: value
+        - cell "2296":
+          - generic: "2296"
+      - row "unitText px":
+        - cell "unitText":
+          - generic: unitText
+        - cell "px":
+          - generic: px
+      - row "creator":
+        - cell "creator":
+          - generic: creator
+        - cell
+      - row "@type Person":
+        - cell "@type":
+          - generic: "@type"
+        - cell "Person":
+          - generic: Person
+      - row "name Aliva Sahoo":
+        - cell "name":
+          - generic: name
+        - cell "Aliva Sahoo":
+          - generic: Aliva Sahoo
+      - row "image":
+        - cell "image":
+          - generic: image
+        - cell
+      - row "@type ImageObject":
+        - cell "@type":
+          - generic: "@type"
+        - cell "ImageObject":
+          - generic: ImageObject
+      - row "@id https://example-test.site/#press-pecho-1920":
+        - cell "@id":
+          - generic: "@id"
+        - cell "https://example-test.site/#press-pecho-1920":
+          - generic: https://example-test.site/#press-pecho-1920
+      - row "name Press de pecho":
+        - cell "name":
+          - generic: name
+        - cell "Press de pecho":
+          - generic: Press de pecho
+      - row "description Mujer sentada en una máquina de press de pecho, sujetando dos empuñaduras a la altura del tórax.":
+        - cell "description":
+          - generic: description
+        - cell "Mujer sentada en una máquina de press de pecho, sujetando dos empuñaduras a la altura del tórax.":
+          - generic: Mujer sentada en una máquina de press de pecho, sujetando dos empuñaduras a la altura del tórax.
+      - row "caption Press de pecho":
+        - cell "caption":
+          - generic: caption
+        - cell "Press de pecho":
+          - generic: Press de pecho
+      - row "contentUrl https://example-test.site/assets/images/press-pecho-1920w.jpg":
+        - cell "contentUrl":
+          - generic: contentUrl
+        - cell "https://example-test.site/assets/images/press-pecho-1920w.jpg":
+          - generic: https://example-test.site/assets/images/press-pecho-1920w.jpg
+      - row "encodingFormat image/jpeg":
+        - cell "encodingFormat":
+          - generic: encodingFormat
+        - cell "image/jpeg":
+          - generic: image/jpeg
+      - row "contentSize 214803 bytes":
+        - cell "contentSize":
+          - generic: contentSize
+        - cell "214803 bytes":
+          - generic: 214803 bytes
+      - row "sha256 e90fbfd4a4c5559e7d83feb2039ee66a18f4a4e4c3d2bcd145ff397206eda67d":
+        - cell "sha256":
+          - generic: sha256
+        - cell "e90fbfd4a4c5559e7d83feb2039ee66a18f4a4e4c3d2bcd145ff397206eda67d":
+          - generic: e90fbfd4a4c5559e7d83feb2039ee66a18f4a4e4c3d2bcd145ff397206eda67d
+      - row "creditText Tyler Read / Wikimedia Commons / CC BY 2.0 / www.ptpioneer.com":
+        - cell "creditText":
+          - generic: creditText
+        - cell "Tyler Read / Wikimedia Commons / CC BY 2.0 / www.ptpioneer.com":
+          - generic: Tyler Read / Wikimedia Commons / CC BY 2.0 / www.ptpioneer.com
+      - row "license https://creativecommons.org/licenses/by/2.0/":
+        - cell "license":
+          - generic: license
+        - cell "https://creativecommons.org/licenses/by/2.0/":
+          - generic: https://creativecommons.org/licenses/by/2.0/
+      - row "isBasedOn https://commons.wikimedia.org/wiki/File:Girl_doing_chest_press_machine_exercise.jpg":
+        - cell "isBasedOn":
+          - generic: isBasedOn
+        - cell "https://commons.wikimedia.org/wiki/File:Girl_doing_chest_press_machine_exercise.jpg":
+          - generic: https://commons.wikimedia.org/wiki/File:Girl_doing_chest_press_machine_exercise.jpg
+      - row "acquireLicensePage https://commons.wikimedia.org/wiki/File:Girl_doing_chest_press_machine_exercise.jpg":
+        - cell "acquireLicensePage":
+          - generic: acquireLicensePage
+        - cell "https://commons.wikimedia.org/wiki/File:Girl_doing_chest_press_machine_exercise.jpg":
+          - generic: https://commons.wikimedia.org/wiki/File:Girl_doing_chest_press_machine_exercise.jpg
+      - row "width":
+        - cell "width":
+          - generic: width
+        - cell
+      - row "@type QuantitativeValue":
+        - cell "@type":
+          - generic: "@type"
+        - cell "QuantitativeValue":
+          - generic: QuantitativeValue
+      - row "value 1920":
+        - cell "value":
+          - generic: value
+        - cell "1920":
+          - generic: "1920"
+      - row "unitText px":
+        - cell "unitText":
+          - generic: unitText
+        - cell "px":
+          - generic: px
+      - row "height":
+        - cell "height":
+          - generic: height
+        - cell
+      - row "@type QuantitativeValue":
+        - cell "@type":
+          - generic: "@type"
+        - cell "QuantitativeValue":
+          - generic: QuantitativeValue
+      - row "value 1280":
+        - cell "value":
+          - generic: value
+        - cell "1280":
+          - generic: "1280"
+      - row "unitText px":
+        - cell "unitText":
+          - generic: unitText
+        - cell "px":
+          - generic: px
+      - row "creator":
+        - cell "creator":
+          - generic: creator
+        - cell
+      - row "@type Person":
+        - cell "@type":
+          - generic: "@type"
+        - cell "Person":
+          - generic: Person
+      - row "name Tyler Read":
+        - cell "name":
+          - generic: name
+        - cell "Tyler Read":
+          - generic: Tyler Read
+      - row "image":
+        - cell "image":
+          - generic: image
+        - cell
+      - row "@type ImageObject":
+        - cell "@type":
+          - generic: "@type"
+        - cell "ImageObject":
+          - generic: ImageObject
+      - row "@id https://example-test.site/#jalon-pecho-1920":
+        - cell "@id":
+          - generic: "@id"
+        - cell "https://example-test.site/#jalon-pecho-1920":
+          - generic: https://example-test.site/#jalon-pecho-1920
+      - row "name Jalón al pecho":
+        - cell "name":
+          - generic: name
+        - cell "Jalón al pecho":
+          - generic: Jalón al pecho
+      - row "description Persona sentada en una máquina de jalón al pecho, con los brazos elevados hacia una barra unida a una polea superior.":
+        - cell "description":
+          - generic: description
+        - cell "Persona sentada en una máquina de jalón al pecho, con los brazos elevados hacia una barra unida a una polea superior.":
+          - generic: Persona sentada en una máquina de jalón al pecho, con los brazos elevados hacia una barra unida a una polea superior.
+      - row "caption Jalón al pecho":
+        - cell "caption":
+          - generic: caption
+        - cell "Jalón al pecho":
+          - generic: Jalón al pecho
+      - row "contentUrl https://example-test.site/assets/images/jalon-pecho-1920w.jpg":
+        - cell "contentUrl":
+          - generic: contentUrl
+        - cell "https://example-test.site/assets/images/jalon-pecho-1920w.jpg":
+          - generic: https://example-test.site/assets/images/jalon-pecho-1920w.jpg
+      - row "encodingFormat image/jpeg":
+        - cell "encodingFormat":
+          - generic: encodingFormat
+        - cell "image/jpeg":
+          - generic: image/jpeg
+      - row "contentSize 1043180 bytes":
+        - cell "contentSize":
+          - generic: contentSize
+        - cell "1043180 bytes":
+          - generic: 1043180 bytes
+      - row "sha256 62875b514db1d9de8975527e6374764e321568d00d000593c4a29a7878ab52e1":
+        - cell "sha256":
+          - generic: sha256
+        - cell "62875b514db1d9de8975527e6374764e321568d00d000593c4a29a7878ab52e1":
+          - generic: 62875b514db1d9de8975527e6374764e321568d00d000593c4a29a7878ab52e1
+      - row "creditText SAgbley / Wikimedia Commons / CC BY-SA 4.0":
+        - cell "creditText":
+          - generic: creditText
+        - cell "SAgbley / Wikimedia Commons / CC BY-SA 4.0":
+          - generic: SAgbley / Wikimedia Commons / CC BY-SA 4.0
+      - row "license https://creativecommons.org/licenses/by-sa/4.0/":
+        - cell "license":
+          - generic: license
+        - cell "https://creativecommons.org/licenses/by-sa/4.0/":
+          - generic: https://creativecommons.org/licenses/by-sa/4.0/
+      - row "isBasedOn https://commons.wikimedia.org/wiki/File:Lat_Pull_down_Machine.jpg":
+        - cell "isBasedOn":
+          - generic: isBasedOn
+        - cell "https://commons.wikimedia.org/wiki/File:Lat_Pull_down_Machine.jpg":
+          - generic: https://commons.wikimedia.org/wiki/File:Lat_Pull_down_Machine.jpg
+      - row "acquireLicensePage https://commons.wikimedia.org/wiki/File:Lat_Pull_down_Machine.jpg":
+        - cell "acquireLicensePage":
+          - generic: acquireLicensePage
+        - cell "https://commons.wikimedia.org/wiki/File:Lat_Pull_down_Machine.jpg":
+          - generic: https://commons.wikimedia.org/wiki/File:Lat_Pull_down_Machine.jpg
+      - row "width":
+        - cell "width":
+          - generic: width
+        - cell
+      - row "@type QuantitativeValue":
+        - cell "@type":
+          - generic: "@type"
+        - cell "QuantitativeValue":
+          - generic: QuantitativeValue
+      - row "value 1920":
+        - cell "value":
+          - generic: value
+        - cell "1920":
+          - generic: "1920"
+      - row "unitText px":
+        - cell "unitText":
+          - generic: unitText
+        - cell "px":
+          - generic: px
+      - row "height":
+        - cell "height":
+          - generic: height
+        - cell
+      - row "@type QuantitativeValue":
+        - cell "@type":
+          - generic: "@type"
+        - cell "QuantitativeValue":
+          - generic: QuantitativeValue
+      - row "value 3413":
+        - cell "value":
+          - generic: value
+        - cell "3413":
+          - generic: "3413"
+      - row "unitText px":
+        - cell "unitText":
+          - generic: unitText
+        - cell "px":
+          - generic: px
+      - row "creator":
+        - cell "creator":
+          - generic: creator
+        - cell
+      - row "@type Person":
+        - cell "@type":
+          - generic: "@type"
+        - cell "Person":
+          - generic: Person
+      - row "name SAgbley":
+        - cell "name":
+          - generic: name
+        - cell "SAgbley":
+          - generic: SAgbley
+      - row "hasPart":
+        - cell "hasPart":
+          - generic: hasPart
+        - cell
+      - row "@type ImageObject":
+        - cell "@type":
+          - generic: "@type"
+        - cell "ImageObject":
+          - generic: ImageObject
+      - row "@id https://example-test.site/#extension-piernas-480":
+        - cell "@id":
+          - generic: "@id"
+        - cell "https://example-test.site/#extension-piernas-480":
+          - generic: https://example-test.site/#extension-piernas-480
+      - row "name Extensión de piernas":
+        - cell "name":
+          - generic: name
+        - cell "Extensión de piernas":
+          - generic: Extensión de piernas
+      - row "description Máquina de extensión de piernas con asiento, respaldo inclinado y rodillos acolchados frente a las piernas.":
+        - cell "description":
+          - generic: description
+        - cell "Máquina de extensión de piernas con asiento, respaldo inclinado y rodillos acolchados frente a las piernas.":
+          - generic: Máquina de extensión de piernas con asiento, respaldo inclinado y rodillos acolchados frente a las piernas.
+      - row "caption Extensión de piernas":
+        - cell "caption":
+          - generic: caption
+        - cell "Extensión de piernas":
+          - generic: Extensión de piernas
+      - row "contentUrl https://example-test.site/assets/images/extension-piernas-480w.jpg":
+        - cell "contentUrl":
+          - generic: contentUrl
+        - cell "https://example-test.site/assets/images/extension-piernas-480w.jpg":
+          - generic: https://example-test.site/assets/images/extension-piernas-480w.jpg
+      - row "encodingFormat image/jpeg":
+        - cell "encodingFormat":
+          - generic: encodingFormat
+        - cell "image/jpeg":
+          - generic: image/jpeg
+      - row "contentSize 53171 bytes":
+        - cell "contentSize":
+          - generic: contentSize
+        - cell "53171 bytes":
+          - generic: 53171 bytes
+      - row "sha256 006e126837d5c56312c0219757a13d5266401f9990d1f1ea9d892b119b92aa24":
+        - cell "sha256":
+          - generic: sha256
+        - cell "006e126837d5c56312c0219757a13d5266401f9990d1f1ea9d892b119b92aa24":
+          - generic: 006e126837d5c56312c0219757a13d5266401f9990d1f1ea9d892b119b92aa24
+      - row "creditText Aliva Sahoo / Wikimedia Commons / CC BY-SA 4.0":
+        - cell "creditText":
+          - generic: creditText
+        - cell "Aliva Sahoo / Wikimedia Commons / CC BY-SA 4.0":
+          - generic: Aliva Sahoo / Wikimedia Commons / CC BY-SA 4.0
+      - row "license https://creativecommons.org/licenses/by-sa/4.0/":
+        - cell "license":
+          - generic: license
+        - cell "https://creativecommons.org/licenses/by-sa/4.0/":
+          - generic: https://creativecommons.org/licenses/by-sa/4.0/
+      - row "isBasedOn https://commons.wikimedia.org/wiki/File:Leg_Extension.jpg":
+        - cell "isBasedOn":
+          - generic: isBasedOn
+        - cell "https://commons.wikimedia.org/wiki/File:Leg_Extension.jpg":
+          - generic: https://commons.wikimedia.org/wiki/File:Leg_Extension.jpg
+      - row "acquireLicensePage https://commons.wikimedia.org/wiki/File:Leg_Extension.jpg":
+        - cell "acquireLicensePage":
+          - generic: acquireLicensePage
+        - cell "https://commons.wikimedia.org/wiki/File:Leg_Extension.jpg":
+          - generic: https://commons.wikimedia.org/wiki/File:Leg_Extension.jpg
+      - row "width":
+        - cell "width":
+          - generic: width
+        - cell
+      - row "@type QuantitativeValue":
+        - cell "@type":
+          - generic: "@type"
+        - cell "QuantitativeValue":
+          - generic: QuantitativeValue
+      - row "value 480":
+        - cell "value":
+          - generic: value
+        - cell "480":
+          - generic: "480"
+      - row "unitText px":
+        - cell "unitText":
+          - generic: unitText
+        - cell "px":
+          - generic: px
+      - row "height":
+        - cell "height":
+          - generic: height
+        - cell
+      - row "@type QuantitativeValue":
+        - cell "@type":
+          - generic: "@type"
+        - cell "QuantitativeValue":
+          - generic: QuantitativeValue
+      - row "value 574":
+        - cell "value":
+          - generic: value
+        - cell "574":
+          - generic: "574"
+      - row "unitText px":
+        - cell "unitText":
+          - generic: unitText
+        - cell "px":
+          - generic: px
+      - row "creator":
+        - cell "creator":
+          - generic: creator
+        - cell
+      - row "@type Person":
+        - cell "@type":
+          - generic: "@type"
+        - cell "Person":
+          - generic: Person
+      - row "name Aliva Sahoo":
+        - cell "name":
+          - generic: name
+        - cell "Aliva Sahoo":
+          - generic: Aliva Sahoo
+      - row "hasPart":
+        - cell "hasPart":
+          - generic: hasPart
+        - cell
+      - row "@type ImageObject":
+        - cell "@type":
+          - generic: "@type"
+        - cell "ImageObject":
+          - generic: ImageObject
+      - row "@id https://example-test.site/#extension-piernas-768":
+        - cell "@id":
+          - generic: "@id"
+        - cell "https://example-test.site/#extension-piernas-768":
+          - generic: https://example-test.site/#extension-piernas-768
+      - row "name Extensión de piernas":
+        - cell "name":
+          - generic: name
+        - cell "Extensión de piernas":
+          - generic: Extensión de piernas
+      - row "description Máquina de extensión de piernas con asiento, respaldo inclinado y rodillos acolchados frente a las piernas.":
+        - cell "description":
+          - generic: description
+        - cell "Máquina de extensión de piernas con asiento, respaldo inclinado y rodillos acolchados frente a las piernas.":
+          - generic: Máquina de extensión de piernas con asiento, respaldo inclinado y rodillos acolchados frente a las piernas.
+      - row "caption Extensión de piernas":
+        - cell "caption":
+          - generic: caption
+        - cell "Extensión de piernas":
+          - generic: Extensión de piernas
+      - row "contentUrl https://example-test.site/assets/images/extension-piernas-768w.jpg":
+        - cell "contentUrl":
+          - generic: contentUrl
+        - cell "https://example-test.site/assets/images/extension-piernas-768w.jpg":
+          - generic: https://example-test.site/assets/images/extension-piernas-768w.jpg
+      - row "encodingFormat image/jpeg":
+        - cell "encodingFormat":
+          - generic: encodingFormat
+        - cell "image/jpeg":
+          - generic: image/jpeg
+      - row "contentSize 117110 bytes":
+        - cell "contentSize":
+          - generic: contentSize
+        - cell "117110 bytes":
+          - generic: 117110 bytes
+      - row "sha256 eb3cdf6199bcc0b8e2d47d907539286b31f5b04729145c29459ac6ea2abae21a":
+        - cell "sha256":
+          - generic: sha256
+        - cell "eb3cdf6199bcc0b8e2d47d907539286b31f5b04729145c29459ac6ea2abae21a":
+          - generic: eb3cdf6199bcc0b8e2d47d907539286b31f5b04729145c29459ac6ea2abae21a
+      - row "creditText Aliva Sahoo / Wikimedia Commons / CC BY-SA 4.0":
+        - cell "creditText":
+          - generic: creditText
+        - cell "Aliva Sahoo / Wikimedia Commons / CC BY-SA 4.0":
+          - generic: Aliva Sahoo / Wikimedia Commons / CC BY-SA 4.0
+      - row "license https://creativecommons.org/licenses/by-sa/4.0/":
+        - cell "license":
+          - generic: license
+        - cell "https://creativecommons.org/licenses/by-sa/4.0/":
+          - generic: https://creativecommons.org/licenses/by-sa/4.0/
+      - row "isBasedOn https://commons.wikimedia.org/wiki/File:Leg_Extension.jpg":
+        - cell "isBasedOn":
+          - generic: isBasedOn
+        - cell "https://commons.wikimedia.org/wiki/File:Leg_Extension.jpg":
+          - generic: https://commons.wikimedia.org/wiki/File:Leg_Extension.jpg
+      - row "acquireLicensePage https://commons.wikimedia.org/wiki/File:Leg_Extension.jpg":
+        - cell "acquireLicensePage":
+          - generic: acquireLicensePage
+        - cell "https://commons.wikimedia.org/wiki/File:Leg_Extension.jpg":
+          - generic: https://commons.wikimedia.org/wiki/File:Leg_Extension.jpg
+      - row "width":
+        - cell "width":
+          - generic: width
+        - cell
+      - row "@type QuantitativeValue":
+        - cell "@type":
+          - generic: "@type"
+        - cell "QuantitativeValue":
+          - generic: QuantitativeValue
+      - row "value 768":
+        - cell "value":
+          - generic: value
+        - cell "768":
+          - generic: "768"
+      - row "unitText px":
+        - cell "unitText":
+          - generic: unitText
+        - cell "px":
+          - generic: px
+      - row "height":
+        - cell "height":
+          - generic: height
+        - cell
+      - row "@type QuantitativeValue":
+        - cell "@type":
+          - generic: "@type"
+        - cell "QuantitativeValue":
+          - generic: QuantitativeValue
+      - row "value 918":
+        - cell "value":
+          - generic: value
+        - cell "918":
+          - generic: "918"
+      - row "unitText px":
+        - cell "unitText":
+          - generic: unitText
+        - cell "px":
+          - generic: px
+      - row "creator":
+        - cell "creator":
+          - generic: creator
+        - cell
+      - row "@type Person":
+        - cell "@type":
+          - generic: "@type"
+        - cell "Person":
+          - generic: Person
+      - row "name Aliva Sahoo":
+        - cell "name":
+          - generic: name
+        - cell "Aliva Sahoo":
+          - generic: Aliva Sahoo
+      - row "hasPart":
+        - cell "hasPart":
+          - generic: hasPart
+        - cell
+      - row "@type ImageObject":
+        - cell "@type":
+          - generic: "@type"
+        - cell "ImageObject":
+          - generic: ImageObject
+      - row "@id https://example-test.site/#extension-piernas-1920":
+        - cell "@id":
+          - generic: "@id"
+        - cell "https://example-test.site/#extension-piernas-1920":
+          - generic: https://example-test.site/#extension-piernas-1920
+      - row "name Extensión de piernas":
+        - cell "name":
+          - generic: name
+        - cell "Extensión de piernas":
+          - generic: Extensión de piernas
+      - row "description Máquina de extensión de piernas con asiento, respaldo inclinado y rodillos acolchados frente a las piernas.":
+        - cell "description":
+          - generic: description
+        - cell "Máquina de extensión de piernas con asiento, respaldo inclinado y rodillos acolchados frente a las piernas.":
+          - generic: Máquina de extensión de piernas con asiento, respaldo inclinado y rodillos acolchados frente a las piernas.
+      - row "caption Extensión de piernas":
+        - cell "caption":
+          - generic: caption
+        - cell "Extensión de piernas":
+          - generic: Extensión de piernas
+      - row "contentUrl https://example-test.site/assets/images/extension-piernas-1920w.jpg":
+        - cell "contentUrl":
+          - generic: contentUrl
+        - cell "https://example-test.site/assets/images/extension-piernas-1920w.jpg":
+          - generic: https://example-test.site/assets/images/extension-piernas-1920w.jpg
+      - row "encodingFormat image/jpeg":
+        - cell "encodingFormat":
+          - generic: encodingFormat
+        - cell "image/jpeg":
+          - generic: image/jpeg
+      - row "contentSize 622236 bytes":
+        - cell "contentSize":
+          - generic: contentSize
+        - cell "622236 bytes":
+          - generic: 622236 bytes
+      - row "sha256 fbc52775669c6d08234bec4a88a4cbf2b001f308502be4b8e364a2c235b56838":
+        - cell "sha256":
+          - generic: sha256
+        - cell "fbc52775669c6d08234bec4a88a4cbf2b001f308502be4b8e364a2c235b56838":
+          - generic: fbc52775669c6d08234bec4a88a4cbf2b001f308502be4b8e364a2c235b56838
+      - row "creditText Aliva Sahoo / Wikimedia Commons / CC BY-SA 4.0":
+        - cell "creditText":
+          - generic: creditText
+        - cell "Aliva Sahoo / Wikimedia Commons / CC BY-SA 4.0":
+          - generic: Aliva Sahoo / Wikimedia Commons / CC BY-SA 4.0
+      - row "license https://creativecommons.org/licenses/by-sa/4.0/":
+        - cell "license":
+          - generic: license
+        - cell "https://creativecommons.org/licenses/by-sa/4.0/":
+          - generic: https://creativecommons.org/licenses/by-sa/4.0/
+      - row "isBasedOn https://commons.wikimedia.org/wiki/File:Leg_Extension.jpg":
+        - cell "isBasedOn":
+          - generic: isBasedOn
+        - cell "https://commons.wikimedia.org/wiki/File:Leg_Extension.jpg":
+          - generic: https://commons.wikimedia.org/wiki/File:Leg_Extension.jpg
+      - row "acquireLicensePage https://commons.wikimedia.org/wiki/File:Leg_Extension.jpg":
+        - cell "acquireLicensePage":
+          - generic: acquireLicensePage
+        - cell "https://commons.wikimedia.org/wiki/File:Leg_Extension.jpg":
+          - generic: https://commons.wikimedia.org/wiki/File:Leg_Extension.jpg
+      - row "width":
+        - cell "width":
+          - generic: width
+        - cell
+      - row "@type QuantitativeValue":
+        - cell "@type":
+          - generic: "@type"
+        - cell "QuantitativeValue":
+          - generic: QuantitativeValue
+      - row "value 1920":
+        - cell "value":
+          - generic: value
+        - cell "1920":
+          - generic: "1920"
+      - row "unitText px":
+        - cell "unitText":
+          - generic: unitText
+        - cell "px":
+          - generic: px
+      - row "height":
+        - cell "height":
+          - generic: height
+        - cell
+      - row "@type QuantitativeValue":
+        - cell "@type":
+          - generic: "@type"
+        - cell "QuantitativeValue":
+          - generic: QuantitativeValue
+      - row "value 2296":
+        - cell "value":
+          - generic: value
+        - cell "2296":
+          - generic: "2296"
+      - row "unitText px":
+        - cell "unitText":
+          - generic: unitText
+        - cell "px":
+          - generic: px
+      - row "creator":
+        - cell "creator":
+          - generic: creator
+        - cell
+      - row "@type Person":
+        - cell "@type":
+          - generic: "@type"
+        - cell "Person":
+          - generic: Person
+      - row "name Aliva Sahoo":
+        - cell "name":
+          - generic: name
+        - cell "Aliva Sahoo":
+          - generic: Aliva Sahoo
+      - row "hasPart":
+        - cell "hasPart":
+          - generic: hasPart
+        - cell
+      - row "@type ImageObject":
+        - cell "@type":
+          - generic: "@type"
+        - cell "ImageObject":
+          - generic: ImageObject
+      - row "@id https://example-test.site/#press-pecho-480":
+        - cell "@id":
+          - generic: "@id"
+        - cell "https://example-test.site/#press-pecho-480":
+          - generic: https://example-test.site/#press-pecho-480
+      - row "name Press de pecho":
+        - cell "name":
+          - generic: name
+        - cell "Press de pecho":
+          - generic: Press de pecho
+      - row "description Mujer sentada en una máquina de press de pecho, sujetando dos empuñaduras a la altura del tórax.":
+        - cell "description":
+          - generic: description
+        - cell "Mujer sentada en una máquina de press de pecho, sujetando dos empuñaduras a la altura del tórax.":
+          - generic: Mujer sentada en una máquina de press de pecho, sujetando dos empuñaduras a la altura del tórax.
+      - row "caption Press de pecho":
+        - cell "caption":
+          - generic: caption
+        - cell "Press de pecho":
+          - generic: Press de pecho
+      - row "contentUrl https://example-test.site/assets/images/press-pecho-480w.jpg":
+        - cell "contentUrl":
+          - generic: contentUrl
+        - cell "https://example-test.site/assets/images/press-pecho-480w.jpg":
+          - generic: https://example-test.site/assets/images/press-pecho-480w.jpg
+      - row "encodingFormat image/jpeg":
+        - cell "encodingFormat":
+          - generic: encodingFormat
+        - cell "image/jpeg":
+          - generic: image/jpeg
+      - row "contentSize 23380 bytes":
+        - cell "contentSize":
+          - generic: contentSize
+        - cell "23380 bytes":
+          - generic: 23380 bytes
+      - row "sha256 99ea9b693ccaed82591039b80d9cd92a7ce5af58cc589acec174254283d3183f":
+        - cell "sha256":
+          - generic: sha256
+        - cell "99ea9b693ccaed82591039b80d9cd92a7ce5af58cc589acec174254283d3183f":
+          - generic: 99ea9b693ccaed82591039b80d9cd92a7ce5af58cc589acec174254283d3183f
+      - row "creditText Tyler Read / Wikimedia Commons / CC BY 2.0 / www.ptpioneer.com":
+        - cell "creditText":
+          - generic: creditText
+        - cell "Tyler Read / Wikimedia Commons / CC BY 2.0 / www.ptpioneer.com":
+          - generic: Tyler Read / Wikimedia Commons / CC BY 2.0 / www.ptpioneer.com
+      - row "license https://creativecommons.org/licenses/by/2.0/":
+        - cell "license":
+          - generic: license
+        - cell "https://creativecommons.org/licenses/by/2.0/":
+          - generic: https://creativecommons.org/licenses/by/2.0/
+      - row "isBasedOn https://commons.wikimedia.org/wiki/File:Girl_doing_chest_press_machine_exercise.jpg":
+        - cell "isBasedOn":
+          - generic: isBasedOn
+        - cell "https://commons.wikimedia.org/wiki/File:Girl_doing_chest_press_machine_exercise.jpg":
+          - generic: https://commons.wikimedia.org/wiki/File:Girl_doing_chest_press_machine_exercise.jpg
+      - row "acquireLicensePage https://commons.wikimedia.org/wiki/File:Girl_doing_chest_press_machine_exercise.jpg":
+        - cell "acquireLicensePage":
+          - generic: acquireLicensePage
+        - cell "https://commons.wikimedia.org/wiki/File:Girl_doing_chest_press_machine_exercise.jpg":
+          - generic: https://commons.wikimedia.org/wiki/File:Girl_doing_chest_press_machine_exercise.jpg
+      - row "width":
+        - cell "width":
+          - generic: width
+        - cell
+      - row "@type QuantitativeValue":
+        - cell "@type":
+          - generic: "@type"
+        - cell "QuantitativeValue":
+          - generic: QuantitativeValue
+      - row "value 480":
+        - cell "value":
+          - generic: value
+        - cell "480":
+          - generic: "480"
+      - row "unitText px":
+        - cell "unitText":
+          - generic: unitText
+        - cell "px":
+          - generic: px
+      - row "height":
+        - cell "height":
+          - generic: height
+        - cell
+      - row "@type QuantitativeValue":
+        - cell "@type":
+          - generic: "@type"
+        - cell "QuantitativeValue":
+          - generic: QuantitativeValue
+      - row "value 320":
+        - cell "value":
+          - generic: value
+        - cell "320":
+          - generic: "320"
+      - row "unitText px":
+        - cell "unitText":
+          - generic: unitText
+        - cell "px":
+          - generic: px
+      - row "creator":
+        - cell "creator":
+          - generic: creator
+        - cell
+      - row "@type Person":
+        - cell "@type":
+          - generic: "@type"
+        - cell "Person":
+          - generic: Person
+      - row "name Tyler Read":
+        - cell "name":
+          - generic: name
+        - cell "Tyler Read":
+          - generic: Tyler Read
+      - row "hasPart":
+        - cell "hasPart":
+          - generic: hasPart
+        - cell
+      - row "@type ImageObject":
+        - cell "@type":
+          - generic: "@type"
+        - cell "ImageObject":
+          - generic: ImageObject
+      - row "@id https://example-test.site/#press-pecho-768":
+        - cell "@id":
+          - generic: "@id"
+        - cell "https://example-test.site/#press-pecho-768":
+          - generic: https://example-test.site/#press-pecho-768
+      - row "name Press de pecho":
+        - cell "name":
+          - generic: name
+        - cell "Press de pecho":
+          - generic: Press de pecho
+      - row "description Mujer sentada en una máquina de press de pecho, sujetando dos empuñaduras a la altura del tórax.":
+        - cell "description":
+          - generic: description
+        - cell "Mujer sentada en una máquina de press de pecho, sujetando dos empuñaduras a la altura del tórax.":
+          - generic: Mujer sentada en una máquina de press de pecho, sujetando dos empuñaduras a la altura del tórax.
+      - row "caption Press de pecho":
+        - cell "caption":
+          - generic: caption
+        - cell "Press de pecho":
+          - generic: Press de pecho
+      - row "contentUrl https://example-test.site/assets/images/press-pecho-768w.jpg":
+        - cell "contentUrl":
+          - generic: contentUrl
+        - cell "https://example-test.site/assets/images/press-pecho-768w.jpg":
+          - generic: https://example-test.site/assets/images/press-pecho-768w.jpg
+      - row "encodingFormat image/jpeg":
+        - cell "encodingFormat":
+          - generic: encodingFormat
+        - cell "image/jpeg":
+          - generic: image/jpeg
+      - row "contentSize 48063 bytes":
+        - cell "contentSize":
+          - generic: contentSize
+        - cell "48063 bytes":
+          - generic: 48063 bytes
+      - row "sha256 a555def2a554d3de9f04a50c1f5f31c1342a9798d0cf05bccc8410379d478070":
+        - cell "sha256":
+          - generic: sha256
+        - cell "a555def2a554d3de9f04a50c1f5f31c1342a9798d0cf05bccc8410379d478070":
+          - generic: a555def2a554d3de9f04a50c1f5f31c1342a9798d0cf05bccc8410379d478070
+      - row "creditText Tyler Read / Wikimedia Commons / CC BY 2.0 / www.ptpioneer.com":
+        - cell "creditText":
+          - generic: creditText
+        - cell "Tyler Read / Wikimedia Commons / CC BY 2.0 / www.ptpioneer.com":
+          - generic: Tyler Read / Wikimedia Commons / CC BY 2.0 / www.ptpioneer.com
+      - row "license https://creativecommons.org/licenses/by/2.0/":
+        - cell "license":
+          - generic: license
+        - cell "https://creativecommons.org/licenses/by/2.0/":
+          - generic: https://creativecommons.org/licenses/by/2.0/
+      - row "isBasedOn https://commons.wikimedia.org/wiki/File:Girl_doing_chest_press_machine_exercise.jpg":
+        - cell "isBasedOn":
+          - generic: isBasedOn
+        - cell "https://commons.wikimedia.org/wiki/File:Girl_doing_chest_press_machine_exercise.jpg":
+          - generic: https://commons.wikimedia.org/wiki/File:Girl_doing_chest_press_machine_exercise.jpg
+      - row "acquireLicensePage https://commons.wikimedia.org/wiki/File:Girl_doing_chest_press_machine_exercise.jpg":
+        - cell "acquireLicensePage":
+          - generic: acquireLicensePage
+        - cell "https://commons.wikimedia.org/wiki/File:Girl_doing_chest_press_machine_exercise.jpg":
+          - generic: https://commons.wikimedia.org/wiki/File:Girl_doing_chest_press_machine_exercise.jpg
+      - row "width":
+        - cell "width":
+          - generic: width
+        - cell
+      - row "@type QuantitativeValue":
+        - cell "@type":
+          - generic: "@type"
+        - cell "QuantitativeValue":
+          - generic: QuantitativeValue
+      - row "value 768":
+        - cell "value":
+          - generic: value
+        - cell "768":
+          - generic: "768"
+      - row "unitText px":
+        - cell "unitText":
+          - generic: unitText
+        - cell "px":
+          - generic: px
+      - row "height":
+        - cell "height":
+          - generic: height
+        - cell
+      - row "@type QuantitativeValue":
+        - cell "@type":
+          - generic: "@type"
+        - cell "QuantitativeValue":
+          - generic: QuantitativeValue
+      - row "value 512":
+        - cell "value":
+          - generic: value
+        - cell "512":
+          - generic: "512"
+      - row "unitText px":
+        - cell "unitText":
+          - generic: unitText
+        - cell "px":
+          - generic: px
+      - row "creator":
+        - cell "creator":
+          - generic: creator
+        - cell
+      - row "@type Person":
+        - cell "@type":
+          - generic: "@type"
+        - cell "Person":
+          - generic: Person
+      - row "name Tyler Read":
+        - cell "name":
+          - generic: name
+        - cell "Tyler Read":
+          - generic: Tyler Read
+      - row "hasPart":
+        - cell "hasPart":
+          - generic: hasPart
+        - cell
+      - row "@type ImageObject":
+        - cell "@type":
+          - generic: "@type"
+        - cell "ImageObject":
+          - generic: ImageObject
+      - row "@id https://example-test.site/#press-pecho-1920":
+        - cell "@id":
+          - generic: "@id"
+        - cell "https://example-test.site/#press-pecho-1920":
+          - generic: https://example-test.site/#press-pecho-1920
+      - row "name Press de pecho":
+        - cell "name":
+          - generic: name
+        - cell "Press de pecho":
+          - generic: Press de pecho
+      - row "description Mujer sentada en una máquina de press de pecho, sujetando dos empuñaduras a la altura del tórax.":
+        - cell "description":
+          - generic: description
+        - cell "Mujer sentada en una máquina de press de pecho, sujetando dos empuñaduras a la altura del tórax.":
+          - generic: Mujer sentada en una máquina de press de pecho, sujetando dos empuñaduras a la altura del tórax.
+      - row "caption Press de pecho":
+        - cell "caption":
+          - generic: caption
+        - cell "Press de pecho":
+          - generic: Press de pecho
+      - row "contentUrl https://example-test.site/assets/images/press-pecho-1920w.jpg":
+        - cell "contentUrl":
+          - generic: contentUrl
+        - cell "https://example-test.site/assets/images/press-pecho-1920w.jpg":
+          - generic: https://example-test.site/assets/images/press-pecho-1920w.jpg
+      - row "encodingFormat image/jpeg":
+        - cell "encodingFormat":
+          - generic: encodingFormat
+        - cell "image/jpeg":
+          - generic: image/jpeg
+      - row "contentSize 214803 bytes":
+        - cell "contentSize":
+          - generic: contentSize
+        - cell "214803 bytes":
+          - generic: 214803 bytes
+      - row "sha256 e90fbfd4a4c5559e7d83feb2039ee66a18f4a4e4c3d2bcd145ff397206eda67d":
+        - cell "sha256":
+          - generic: sha256
+        - cell "e90fbfd4a4c5559e7d83feb2039ee66a18f4a4e4c3d2bcd145ff397206eda67d":
+          - generic: e90fbfd4a4c5559e7d83feb2039ee66a18f4a4e4c3d2bcd145ff397206eda67d
+      - row "creditText Tyler Read / Wikimedia Commons / CC BY 2.0 / www.ptpioneer.com":
+        - cell "creditText":
+          - generic: creditText
+        - cell "Tyler Read / Wikimedia Commons / CC BY 2.0 / www.ptpioneer.com":
+          - generic: Tyler Read / Wikimedia Commons / CC BY 2.0 / www.ptpioneer.com
+      - row "license https://creativecommons.org/licenses/by/2.0/":
+        - cell "license":
+          - generic: license
+        - cell "https://creativecommons.org/licenses/by/2.0/":
+          - generic: https://creativecommons.org/licenses/by/2.0/
+      - row "isBasedOn https://commons.wikimedia.org/wiki/File:Girl_doing_chest_press_machine_exercise.jpg":
+        - cell "isBasedOn":
+          - generic: isBasedOn
+        - cell "https://commons.wikimedia.org/wiki/File:Girl_doing_chest_press_machine_exercise.jpg":
+          - generic: https://commons.wikimedia.org/wiki/File:Girl_doing_chest_press_machine_exercise.jpg
+      - row "acquireLicensePage https://commons.wikimedia.org/wiki/File:Girl_doing_chest_press_machine_exercise.jpg":
+        - cell "acquireLicensePage":
+          - generic: acquireLicensePage
+        - cell "https://commons.wikimedia.org/wiki/File:Girl_doing_chest_press_machine_exercise.jpg":
+          - generic: https://commons.wikimedia.org/wiki/File:Girl_doing_chest_press_machine_exercise.jpg
+      - row "width":
+        - cell "width":
+          - generic: width
+        - cell
+      - row "@type QuantitativeValue":
+        - cell "@type":
+          - generic: "@type"
+        - cell "QuantitativeValue":
+          - generic: QuantitativeValue
+      - row "value 1920":
+        - cell "value":
+          - generic: value
+        - cell "1920":
+          - generic: "1920"
+      - row "unitText px":
+        - cell "unitText":
+          - generic: unitText
+        - cell "px":
+          - generic: px
+      - row "height":
+        - cell "height":
+          - generic: height
+        - cell
+      - row "@type QuantitativeValue":
+        - cell "@type":
+          - generic: "@type"
+        - cell "QuantitativeValue":
+          - generic: QuantitativeValue
+      - row "value 1280":
+        - cell "value":
+          - generic: value
+        - cell "1280":
+          - generic: "1280"
+      - row "unitText px":
+        - cell "unitText":
+          - generic: unitText
+        - cell "px":
+          - generic: px
+      - row "creator":
+        - cell "creator":
+          - generic: creator
+        - cell
+      - row "@type Person":
+        - cell "@type":
+          - generic: "@type"
+        - cell "Person":
+          - generic: Person
+      - row "name Tyler Read":
+        - cell "name":
+          - generic: name
+        - cell "Tyler Read":
+          - generic: Tyler Read
+      - row "hasPart":
+        - cell "hasPart":
+          - generic: hasPart
+        - cell
+      - row "@type ImageObject":
+        - cell "@type":
+          - generic: "@type"
+        - cell "ImageObject":
+          - generic: ImageObject
+      - row "@id https://example-test.site/#jalon-pecho-480":
+        - cell "@id":
+          - generic: "@id"
+        - cell "https://example-test.site/#jalon-pecho-480":
+          - generic: https://example-test.site/#jalon-pecho-480
+      - row "name Jalón al pecho":
+        - cell "name":
+          - generic: name
+        - cell "Jalón al pecho":
+          - generic: Jalón al pecho
+      - row "description Persona sentada en una máquina de jalón al pecho, con los brazos elevados hacia una barra unida a una polea superior.":
+        - cell "description":
+          - generic: description
+        - cell "Persona sentada en una máquina de jalón al pecho, con los brazos elevados hacia una barra unida a una polea superior.":
+          - generic: Persona sentada en una máquina de jalón al pecho, con los brazos elevados hacia una barra unida a una polea superior.
+      - row "caption Jalón al pecho":
+        - cell "caption":
+          - generic: caption
+        - cell "Jalón al pecho":
+          - generic: Jalón al pecho
+      - row "contentUrl https://example-test.site/assets/images/jalon-pecho-480w.jpg":
+        - cell "contentUrl":
+          - generic: contentUrl
+        - cell "https://example-test.site/assets/images/jalon-pecho-480w.jpg":
+          - generic: https://example-test.site/assets/images/jalon-pecho-480w.jpg
+      - row "encodingFormat image/jpeg":
+        - cell "encodingFormat":
+          - generic: encodingFormat
+        - cell "image/jpeg":
+          - generic: image/jpeg
+      - row "contentSize 113688 bytes":
+        - cell "contentSize":
+          - generic: contentSize
+        - cell "113688 bytes":
+          - generic: 113688 bytes
+      - row "sha256 6aad79cc674e89cc260653c53a0d3ad05250eae2e85ca4485a37caba9b58a359":
+        - cell "sha256":
+          - generic: sha256
+        - cell "6aad79cc674e89cc260653c53a0d3ad05250eae2e85ca4485a37caba9b58a359":
+          - generic: 6aad79cc674e89cc260653c53a0d3ad05250eae2e85ca4485a37caba9b58a359
+      - row "creditText SAgbley / Wikimedia Commons / CC BY-SA 4.0":
+        - cell "creditText":
+          - generic: creditText
+        - cell "SAgbley / Wikimedia Commons / CC BY-SA 4.0":
+          - generic: SAgbley / Wikimedia Commons / CC BY-SA 4.0
+      - row "license https://creativecommons.org/licenses/by-sa/4.0/":
+        - cell "license":
+          - generic: license
+        - cell "https://creativecommons.org/licenses/by-sa/4.0/":
+          - generic: https://creativecommons.org/licenses/by-sa/4.0/
+      - row "isBasedOn https://commons.wikimedia.org/wiki/File:Lat_Pull_down_Machine.jpg":
+        - cell "isBasedOn":
+          - generic: isBasedOn
+        - cell "https://commons.wikimedia.org/wiki/File:Lat_Pull_down_Machine.jpg":
+          - generic: https://commons.wikimedia.org/wiki/File:Lat_Pull_down_Machine.jpg
+      - row "acquireLicensePage https://commons.wikimedia.org/wiki/File:Lat_Pull_down_Machine.jpg":
+        - cell "acquireLicensePage":
+          - generic: acquireLicensePage
+        - cell "https://commons.wikimedia.org/wiki/File:Lat_Pull_down_Machine.jpg":
+          - generic: https://commons.wikimedia.org/wiki/File:Lat_Pull_down_Machine.jpg
+      - row "width":
+        - cell "width":
+          - generic: width
+        - cell
+      - row "@type QuantitativeValue":
+        - cell "@type":
+          - generic: "@type"
+        - cell "QuantitativeValue":
+          - generic: QuantitativeValue
+      - row "value 480":
+        - cell "value":
+          - generic: value
+        - cell "480":
+          - generic: "480"
+      - row "unitText px":
+        - cell "unitText":
+          - generic: unitText
+        - cell "px":
+          - generic: px
+      - row "height":
+        - cell "height":
+          - generic: height
+        - cell
+      - row "@type QuantitativeValue":
+        - cell "@type":
+          - generic: "@type"
+        - cell "QuantitativeValue":
+          - generic: QuantitativeValue
+      - row "value 853":
+        - cell "value":
+          - generic: value
+        - cell "853":
+          - generic: "853"
+      - row "unitText px":
+        - cell "unitText":
+          - generic: unitText
+        - cell "px":
+          - generic: px
+      - row "creator":
+        - cell "creator":
+          - generic: creator
+        - cell
+      - row "@type Person":
+        - cell "@type":
+          - generic: "@type"
+        - cell "Person":
+          - generic: Person
+      - row "name SAgbley":
+        - cell "name":
+          - generic: name
+        - cell "SAgbley":
+          - generic: SAgbley
+      - row "hasPart":
+        - cell "hasPart":
+          - generic: hasPart
+        - cell
+      - row "@type ImageObject":
+        - cell "@type":
+          - generic: "@type"
+        - cell "ImageObject":
+          - generic: ImageObject
+      - row "@id https://example-test.site/#jalon-pecho-768":
+        - cell "@id":
+          - generic: "@id"
+        - cell "https://example-test.site/#jalon-pecho-768":
+          - generic: https://example-test.site/#jalon-pecho-768
+      - row "name Jalón al pecho":
+        - cell "name":
+          - generic: name
+        - cell "Jalón al pecho":
+          - generic: Jalón al pecho
+      - row "description Persona sentada en una máquina de jalón al pecho, con los brazos elevados hacia una barra unida a una polea superior.":
+        - cell "description":
+          - generic: description
+        - cell "Persona sentada en una máquina de jalón al pecho, con los brazos elevados hacia una barra unida a una polea superior.":
+          - generic: Persona sentada en una máquina de jalón al pecho, con los brazos elevados hacia una barra unida a una polea superior.
+      - row "caption Jalón al pecho":
+        - cell "caption":
+          - generic: caption
+        - cell "Jalón al pecho":
+          - generic: Jalón al pecho
+      - row "contentUrl https://example-test.site/assets/images/jalon-pecho-768w.jpg":
+        - cell "contentUrl":
+          - generic: contentUrl
+        - cell "https://example-test.site/assets/images/jalon-pecho-768w.jpg":
+          - generic: https://example-test.site/assets/images/jalon-pecho-768w.jpg
+      - row "encodingFormat image/jpeg":
+        - cell "encodingFormat":
+          - generic: encodingFormat
+        - cell "image/jpeg":
+          - generic: image/jpeg
+      - row "contentSize 243020 bytes":
+        - cell "contentSize":
+          - generic: contentSize
+        - cell "243020 bytes":
+          - generic: 243020 bytes
+      - row "sha256 cfcd50b29a5b6e4297dd93dfa95885e07ede46389bb7dfb3f0565ef77e30aa3f":
+        - cell "sha256":
+          - generic: sha256
+        - cell "cfcd50b29a5b6e4297dd93dfa95885e07ede46389bb7dfb3f0565ef77e30aa3f":
+          - generic: cfcd50b29a5b6e4297dd93dfa95885e07ede46389bb7dfb3f0565ef77e30aa3f
+      - row "creditText SAgbley / Wikimedia Commons / CC BY-SA 4.0":
+        - cell "creditText":
+          - generic: creditText
+        - cell "SAgbley / Wikimedia Commons / CC BY-SA 4.0":
+          - generic: SAgbley / Wikimedia Commons / CC BY-SA 4.0
+      - row "license https://creativecommons.org/licenses/by-sa/4.0/":
+        - cell "license":
+          - generic: license
+        - cell "https://creativecommons.org/licenses/by-sa/4.0/":
+          - generic: https://creativecommons.org/licenses/by-sa/4.0/
+      - row "isBasedOn https://commons.wikimedia.org/wiki/File:Lat_Pull_down_Machine.jpg":
+        - cell "isBasedOn":
+          - generic: isBasedOn
+        - cell "https://commons.wikimedia.org/wiki/File:Lat_Pull_down_Machine.jpg":
+          - generic: https://commons.wikimedia.org/wiki/File:Lat_Pull_down_Machine.jpg
+      - row "acquireLicensePage https://commons.wikimedia.org/wiki/File:Lat_Pull_down_Machine.jpg":
+        - cell "acquireLicensePage":
+          - generic: acquireLicensePage
+        - cell "https://commons.wikimedia.org/wiki/File:Lat_Pull_down_Machine.jpg":
+          - generic: https://commons.wikimedia.org/wiki/File:Lat_Pull_down_Machine.jpg
+      - row "width":
+        - cell "width":
+          - generic: width
+        - cell
+      - row "@type QuantitativeValue":
+        - cell "@type":
+          - generic: "@type"
+        - cell "QuantitativeValue":
+          - generic: QuantitativeValue
+      - row "value 768":
+        - cell "value":
+          - generic: value
+        - cell "768":
+          - generic: "768"
+      - row "unitText px":
+        - cell "unitText":
+          - generic: unitText
+        - cell "px":
+          - generic: px
+      - row "height":
+        - cell "height":
+          - generic: height
+        - cell
+      - row "@type QuantitativeValue":
+        - cell "@type":
+          - generic: "@type"
+        - cell "QuantitativeValue":
+          - generic: QuantitativeValue
+      - row "value 1365":
+        - cell "value":
+          - generic: value
+        - cell "1365":
+          - generic: "1365"
+      - row "unitText px":
+        - cell "unitText":
+          - generic: unitText
+        - cell "px":
+          - generic: px
+      - row "creator":
+        - cell "creator":
+          - generic: creator
+        - cell
+      - row "@type Person":
+        - cell "@type":
+          - generic: "@type"
+        - cell "Person":
+          - generic: Person
+      - row "name SAgbley":
+        - cell "name":
+          - generic: name
+        - cell "SAgbley":
+          - generic: SAgbley
+      - row "hasPart":
+        - cell "hasPart":
+          - generic: hasPart
+        - cell
+      - row "@type ImageObject":
+        - cell "@type":
+          - generic: "@type"
+        - cell "ImageObject":
+          - generic: ImageObject
+      - row "@id https://example-test.site/#jalon-pecho-1920":
+        - cell "@id":
+          - generic: "@id"
+        - cell "https://example-test.site/#jalon-pecho-1920":
+          - generic: https://example-test.site/#jalon-pecho-1920
+      - row "name Jalón al pecho":
+        - cell "name":
+          - generic: name
+        - cell "Jalón al pecho":
+          - generic: Jalón al pecho
+      - row "description Persona sentada en una máquina de jalón al pecho, con los brazos elevados hacia una barra unida a una polea superior.":
+        - cell "description":
+          - generic: description
+        - cell "Persona sentada en una máquina de jalón al pecho, con los brazos elevados hacia una barra unida a una polea superior.":
+          - generic: Persona sentada en una máquina de jalón al pecho, con los brazos elevados hacia una barra unida a una polea superior.
+      - row "caption Jalón al pecho":
+        - cell "caption":
+          - generic: caption
+        - cell "Jalón al pecho":
+          - generic: Jalón al pecho
+      - row "contentUrl https://example-test.site/assets/images/jalon-pecho-1920w.jpg":
+        - cell "contentUrl":
+          - generic: contentUrl
+        - cell "https://example-test.site/assets/images/jalon-pecho-1920w.jpg":
+          - generic: https://example-test.site/assets/images/jalon-pecho-1920w.jpg
+      - row "encodingFormat image/jpeg":
+        - cell "encodingFormat":
+          - generic: encodingFormat
+        - cell "image/jpeg":
+          - generic: image/jpeg
+      - row "contentSize 1043180 bytes":
+        - cell "contentSize":
+          - generic: contentSize
+        - cell "1043180 bytes":
+          - generic: 1043180 bytes
+      - row "sha256 62875b514db1d9de8975527e6374764e321568d00d000593c4a29a7878ab52e1":
+        - cell "sha256":
+          - generic: sha256
+        - cell "62875b514db1d9de8975527e6374764e321568d00d000593c4a29a7878ab52e1":
+          - generic: 62875b514db1d9de8975527e6374764e321568d00d000593c4a29a7878ab52e1
+      - row "creditText SAgbley / Wikimedia Commons / CC BY-SA 4.0":
+        - cell "creditText":
+          - generic: creditText
+        - cell "SAgbley / Wikimedia Commons / CC BY-SA 4.0":
+          - generic: SAgbley / Wikimedia Commons / CC BY-SA 4.0
+      - row "license https://creativecommons.org/licenses/by-sa/4.0/":
+        - cell "license":
+          - generic: license
+        - cell "https://creativecommons.org/licenses/by-sa/4.0/":
+          - generic: https://creativecommons.org/licenses/by-sa/4.0/
+      - row "isBasedOn https://commons.wikimedia.org/wiki/File:Lat_Pull_down_Machine.jpg":
+        - cell "isBasedOn":
+          - generic: isBasedOn
+        - cell "https://commons.wikimedia.org/wiki/File:Lat_Pull_down_Machine.jpg":
+          - generic: https://commons.wikimedia.org/wiki/File:Lat_Pull_down_Machine.jpg
+      - row "acquireLicensePage https://commons.wikimedia.org/wiki/File:Lat_Pull_down_Machine.jpg":
+        - cell "acquireLicensePage":
+          - generic: acquireLicensePage
+        - cell "https://commons.wikimedia.org/wiki/File:Lat_Pull_down_Machine.jpg":
+          - generic: https://commons.wikimedia.org/wiki/File:Lat_Pull_down_Machine.jpg
+      - row "width":
+        - cell "width":
+          - generic: width
+        - cell
+      - row "@type QuantitativeValue":
+        - cell "@type":
+          - generic: "@type"
+        - cell "QuantitativeValue":
+          - generic: QuantitativeValue
+      - row "value 1920":
+        - cell "value":
+          - generic: value
+        - cell "1920":
+          - generic: "1920"
+      - row "unitText px":
+        - cell "unitText":
+          - generic: unitText
+        - cell "px":
+          - generic: px
+      - row "height":
+        - cell "height":
+          - generic: height
+        - cell
+      - row "@type QuantitativeValue":
+        - cell "@type":
+          - generic: "@type"
+        - cell "QuantitativeValue":
+          - generic: QuantitativeValue
+      - row "value 3413":
+        - cell "value":
+          - generic: value
+        - cell "3413":
+          - generic: "3413"
+      - row "unitText px":
+        - cell "unitText":
+          - generic: unitText
+        - cell "px":
+          - generic: px
+      - row "creator":
+        - cell "creator":
+          - generic: creator
+        - cell
+      - row "@type Person":
+        - cell "@type":
+          - generic: "@type"
+        - cell "Person":
+          - generic: Person
+      - row "name SAgbley":
+        - cell "name":
+          - generic: name
+        - cell "SAgbley":
+          - generic: SAgbley
+- button "play_arrow" [disabled]:
+  - generic: play_arrow
+- generic: VALIDAR
+- button

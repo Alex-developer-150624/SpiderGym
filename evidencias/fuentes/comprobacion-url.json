@@ -1,0 +1,44 @@
+[
+  {
+    "url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "status": 200,
+    "finalUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "bytes": 35530,
+    "sha256": "b462fb0a649a8ec875bba7590abad7dc1e72c0456ddec070cf3a28183689dceb"
+  },
+  {
+    "url": "https://creativecommons.org/licenses/by/2.0/",
+    "status": 200,
+    "finalUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "bytes": 31822,
+    "sha256": "bbb0dcc37f02552e7270e6d2e06be02672ce29ada816107d6fa91e1e6809714b"
+  },
+  {
+    "url": "https://schema.org/ImageObject",
+    "status": 200,
+    "finalUrl": "https://schema.org/ImageObject",
+    "bytes": 235921,
+    "sha256": "7601b57ac6ddee5e1fa1f4f15e428d97439f20024333bd26e3dfa8fd87886c1f"
+  },
+  {
+    "url": "https://schema.org/ImageGallery",
+    "status": 200,
+    "finalUrl": "https://schema.org/ImageGallery",
+    "bytes": 38393,
+    "sha256": "34a0b3ec74d8c0865729ce3411be52157a5add3005fc03c279ac421d47893386"
+  },
+  {
+    "url": "https://schema.org/Article",
+    "status": 200,
+    "finalUrl": "https://schema.org/Article",
+    "bytes": 234136,
+    "sha256": "cd83c3fb2faa593f87ad7097339b56ce8170458a779f6f205674ba16163b2614"
+  },
+  {
+    "url": "https://schema.org/Product",
+    "status": 200,
+    "finalUrl": "https://schema.org/Product",
+    "bytes": 44288,
+    "sha256": "b9cdd48d7b0a41f1348e468fbd4dbeb817a59189435f5fd4675e4356b13a37db"
+  }
+]

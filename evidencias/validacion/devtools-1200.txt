@@ -1,0 +1,30 @@
+The following is a diff from the previous accessibility tree for Window: "SpiderGym - Galería de máquinas" with ~ and + representing changed and added elements, respectively. Removed elements are summarized by ID range.
+~										484 stepper (settable, float) Width, Value: 1200
+~																		620 text 2 ms
+~																	622 cell file:///Users/alexolmos/SpiderGym/assets/images/extension-piernas-1920w.jpg
+~																		624 text extension-piernas-1920w.jpg
+~																	631 cell 622 kB transferred over network, resource size: 622 kB
+~																		632 text 622 kB
+~																		634 text 9 ms
+~																	636 cell file:///Users/alexolmos/SpiderGym/assets/images/press-pecho-1920w.jpg
+~																		638 text press-pecho-1920w.jpg
+~																	645 cell 215 kB transferred over network, resource size: 215 kB
+~																		646 text 215 kB
+~																		648 text 9 ms
+~																	650 cell file:///Users/alexolmos/SpiderGym/assets/images/jalon-pecho-1920w.jpg
+~																		652 text jalon-pecho-1920w.jpg
+~																	659 cell 1,043 kB transferred over network, resource size: 1,043 kB
+~																		660 text 1,043 kB
+~																		662 text 11 ms
+~														665 container 1896948 B transferred over network
+~															666 text 1.9 MB transferred
+~														667 container 1896948 B resources loaded by the page
+~															668 text 1.9 MB resources
+~														669 container Finish: 25 ms
+~															670 text Finish: 25 ms
+~														671 container DOMContentLoaded: 15 ms
+~															672 text DOMContentLoaded: 15 ms
+~														673 container Load: 25 ms
+~															674 text Load: 25 ms
+~							675 text Network data available
+The focused UI element is 484 stepper (settable, float) Width, Value: 1200

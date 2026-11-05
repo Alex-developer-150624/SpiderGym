@@ -1,0 +1,30 @@
+[
+  {
+    "url": "https://commons.wikimedia.org/wiki/File:Leg_Extension.jpg",
+    "httpStatus": 200,
+    "finalUrl": "https://commons.wikimedia.org/wiki/File:Leg_Extension.jpg",
+    "bytes": 105057,
+    "checkedAt": "2026-11-05T18:29:17.746017+00:00"
+  },
+  {
+    "url": "https://commons.wikimedia.org/wiki/File:Girl_doing_chest_press_machine_exercise.jpg",
+    "httpStatus": 200,
+    "finalUrl": "https://commons.wikimedia.org/wiki/File:Girl_doing_chest_press_machine_exercise.jpg",
+    "bytes": 132108,
+    "checkedAt": "2026-11-05T18:29:18.530106+00:00"
+  },
+  {
+    "url": "https://commons.wikimedia.org/wiki/File:Lat_Pull_down_Machine.jpg",
+    "httpStatus": 200,
+    "finalUrl": "https://commons.wikimedia.org/wiki/File:Lat_Pull_down_Machine.jpg",
+    "bytes": 136515,
+    "checkedAt": "2026-11-05T18:29:19.124829+00:00"
+  },
+  {
+    "url": "https://www.ptpioneer.com/",
+    "httpStatus": 200,
+    "finalUrl": "https://www.ptpioneer.com/",
+    "bytes": 91191,
+    "checkedAt": "2026-11-05T18:29:19.439982+00:00"
+  }
+]
