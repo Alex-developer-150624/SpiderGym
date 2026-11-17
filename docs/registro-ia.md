@@ -11,3 +11,7 @@ Aplicado a este chat, el informe sería el siguiente. **Las puntuaciones son ori
 4. Pensamiento crítico y rol de la IA:** el alumno exigió fuentes y resultados verificables y pidió explicaciones sobre elementos que no comprendía. No constan comprobaciones independientes realizadas por él. La IA asumió la mayor parte de la implementación, documentación y validación; el alumno orientó el trabajo y solicitó apoyo para comprenderlo y presentarlo.
 
 5. **Productividad global: 8/10.** La interacción produjo una entrega técnica y explicaciones útiles.
+
+## Práctica 4.1 · Uso de IA
+
+Se utilizó IA como apoyo para entender HTML, revisar validaciones y organizar las pruebas.

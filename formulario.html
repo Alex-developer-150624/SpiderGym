@@ -1,0 +1,57 @@
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Registro - SpiderGym</title>
+</head>
+<body>
+
+<h1>Registro de usuarios - SpiderGym</h1>
+
+<form method="post"
+      onsubmit="event.preventDefault(); alert('Datos válidos en el navegador.');">
+
+    <fieldset>
+        <legend>Datos personales</legend>
+
+        <p>
+            <label for="email">Correo electrónico *</label><br>
+            <input type="email" id="email" name="email"
+                   required aria-describedby="ayuda-email"><br>
+            <small id="ayuda-email">Ejemplo: usuario@gmail.com</small>
+        </p>
+
+        <p>
+            <label for="telefono">Teléfono *</label><br>
+            <input type="tel" id="telefono" name="telefono"
+                   pattern="\+34 [0-9]{3} [0-9]{3} [0-9]{3}"
+                   title="Formato: +34 666 777 888"
+                   required aria-describedby="ayuda-telefono"><br>
+            <small id="ayuda-telefono">Formato: +34 666 777 888</small>
+        </p>
+
+        <p>
+            <label for="fecha">Fecha de nacimiento *</label><br>
+            <input type="date" id="fecha" name="fecha"
+                   max="2008-11-17" required
+                   aria-describedby="ayuda-fecha"><br>
+            <small id="ayuda-fecha">Debes tener al menos 18 años.</small>
+        </p>
+
+        <p>
+            <label for="password">Contraseña *</label><br>
+            <input type="password" id="password" name="password"
+                   minlength="8" required
+                   aria-describedby="ayuda-password"><br>
+            <small id="ayuda-password">Mínimo 8 caracteres.</small>
+        </p>
+    </fieldset>
+
+    <button type="submit">Enviar</button>
+    <button type="reset">Limpiar</button>
+
+</form>
+
+</body>
+</html>
