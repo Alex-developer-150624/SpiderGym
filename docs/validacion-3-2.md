@@ -41,14 +41,5 @@ Los originales se conservan sin modificar. Se aplica orientación EXIF, reducci�
 
 Las licencias se atribuyen a las fichas consultadas: no se ha investigado independientemente su cadena de titularidad ni se garantizan derechos sobre personas/marcas. Los archivos históricos de licencia no acreditada no se borran del proyecto, pero no se usan en las páginas actualizadas ni se incluyen en el ZIP de la práctica.
 
-## Repetir las comprobaciones
 
-1. Desde la carpeta SpiderGym: `python3 scripts/comprobar.py` (requiere Pillow).
-2. Opcionalmente regenerar imágenes: `python3 scripts/regenerar_imagenes.py`; comprobar otra vez el manifiesto. La web no necesita Python/Pillow para visualizarse.
-3. Prueba de navegador: instalar Playwright en un entorno de pruebas y ejecutar `node scripts/navegador.cjs`. Si usa Chrome del sistema, indicar CHROME_PATH. El script levanta un servidor local solo mientras prueba y guarda las evidencias.
-4. W3C: `python3 scripts/validar_html.py`. Este paso envía las siete páginas HTML especificadas al servicio oficial; no envía docs Markdown, evidencias, imágenes originales ni datos del usuario.
-5. Schema.org: abrir validator.schema.org, Fragmento de código, pegar el JSON-LD dentro de su script application/ld+json y ejecutar. Guardar la nueva captura si se modifica el marcado.
 
-## Lo que debe aportar Alex
-
-Comprender el código y grabar/presentar el vídeo real de 10-12 minutos. El guion de apoyo está en `docs/guion-video.md`. No hay una grabación de defensa ya hecha ni se atribuye al alumno la ejecución manual de las pruebas automatizadas.
